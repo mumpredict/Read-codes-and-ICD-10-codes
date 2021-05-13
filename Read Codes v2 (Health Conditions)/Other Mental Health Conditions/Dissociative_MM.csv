@@ -1,0 +1,33 @@
+Code,Description
+E201.00,Hysteria
+E201000,Hysteria unspecified
+E201600,Other conversion disorder
+E201900,Multiple personality
+E201A00,Dissociative reaction unspecified
+E201z00,Hysteria NOS
+E206.00,Depersonalisation syndrome
+Eu41y11,[X]Anxiety hysteria
+Eu44.00,[X]Dissociative [conversion] disorders
+Eu44.11,[X]Conversion hysteria
+Eu44.12,[X]Conversion reaction
+Eu44.13,[X]Hysteria
+Eu44.14,[X]Hysterical psychosis
+Eu44000,[X]Dissociative amnesia
+Eu44100,[X]Dissociative fugue
+Eu44200,[X]Dissociative stupor
+Eu44300,[X]Trance and possession disorders
+Eu44400,[X]Dissociative motor disorders
+Eu44411,[X]Psychogenic aphonia
+Eu44412,[X]Psychogenic dysphonia
+Eu44500,[X]Dissociative convulsions
+Eu44511,[X]Pseudoseizures
+Eu44600,[X]Dissociative anaesthesia and sensory loss
+Eu44611,[X]Psychogenic deafness
+Eu44700,[X]Mixed dissociative [conversion] disorders
+Eu44y00,[X]Other dissociative [conversion] disorders
+Eu44y11,[X]Ganser's syndrome
+Eu44y12,[X]Multiple personality
+Eu44y13,[X]Psychogenic confusion
+Eu44y14,[X]Psychogenic twilight state
+Eu44z00,"[X]Dissociative [conversion] disorder, unspecified"
+Eu46100,[X]Depersonalization - derealization syndrome
