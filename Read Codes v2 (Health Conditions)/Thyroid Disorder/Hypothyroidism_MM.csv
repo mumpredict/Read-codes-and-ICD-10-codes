@@ -1,0 +1,41 @@
+Code,Description,MedicalFrequency,AHDFrequency
+C04z100,Myxoedema coma,25,1
+C04z000,Premature puberty due to hypothyroidism,32,0
+C04z.00,Hypothyroidism NOS,49437,3
+C03..00,Congenital hypothyroidism,4371,29
+C03z.00,Congenital hypothyroidism NOS,267,0
+C040.00,Postsurgical hypothyroidism,3211,0
+C04..00,Acquired hypothyroidism,188210,18
+C042.00,Iodine hypothyroidism,849,0
+C044.00,Postinfectious hypothyroidism,15,0
+C046.00,Autoimmune myxoedema,1031,0
+C04y.00,Other acquired hypothyroidism,11540,0
+C04z.13,"Hypothyroid goitre, acquired",547,0
+C04z.12,Thyroid insufficiency,765,0
+C04z.11,Pretibial myxoedema - hypothyroid,214,0
+C03..11,Cretinism,4,0
+C03z.11,Congenital thyroid insufficiency,9,0
+C03y.00,Other specified congenital hypothyroidism,16,0
+C03z.12,Cretinism,77,0
+C031.00,Goitrous cretin,11,0
+C03y000,Congenital hypothyroidism with diffuse goitre,50,0
+C03y100,Congenital hypothyroidism without goitre,9,0
+C041z00,Postablative hypothyroidism NOS,206,0
+C043z00,Iatrogenic hypothyroidism NOS,357,0
+C04..12,Thyroid deficiency,59593,80
+C04..13,Hypothyroidism,440118,1080
+C040.11,Post ablative hypothyroidism,153,0
+C043200,Hypothyroidism resulting from resorcinol,4,0
+C041.00,Other postablative hypothyroidism,91,0
+C043000,Hypothyroidism resulting from para-aminosalicylic acid,6,0
+C04..11,Myxoedema,33244,28
+C041000,Irradiation hypothyroidism,654,0
+C043100,Hypothyroidism resulting from phenylbutazone,3,0
+C0A5.00,Subclinical iodine-deficiency hypothyroidism,916,0
+C043.00,Other iatrogenic hypothyroidism,261,0
+Cyu1100,[X]Other sp cified hypothyroidism,12,0
+C047.00,Subclinical hypothyroidism,10598,6
+C045.00,Acquired atrophy of thyroid,72,0
+Q433700,Neonatal jaundice with congenital hypothyroidism,,
+66BB.00,Hypothyroidism annual review,,
+F381400,Myasthenic syndrome due to hypothyroidism,,
