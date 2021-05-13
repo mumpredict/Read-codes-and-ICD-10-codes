@@ -1,0 +1,148 @@
+READ_CODE,DESCRIPTION
+d72..,*BUTRIPTYLINE
+d721.,*EVADYNE 25mg tablets
+d722.,*EVADYNE 50mg tablets
+d72y.,*BUTRIPTYLINE 25mg tablets
+d72z.,*BUTRIPTYLINE 50mg tablets
+d73..,CLOMIPRAMINE HYDROCHLORIDE
+d731.,*ANAFRANIL 10mg capsules
+d731.,ANAFRANIL 10mg capsules
+d732.,ANAFRANIL 25mg capsules
+d732.,*ANAFRANIL 25mg capsules
+d733.,ANAFRANIL 50mg capsules
+d733.,*ANAFRANIL 50mg capsules
+d734.,*ANAFRANIL 25mg/5mL syrup
+d735.,*ANAFRANIL 25mg/2mL injection
+d736.,ANAFRANIL SR 75mg m/r tablets
+d736.,*ANAFRANIL SR 75mg m/r tablets
+d737.,*TRANQUAX 10mg capsules
+d738.,*TRANQUAX 25mg capsules
+d739.,TRANQUAX 50mg capsules
+d73r.,*CLOMIPRAMINE HCL 50mg tablets
+d73s.,*CLOMIPRAMINE HCL 10mg tablets
+d73t.,*CLOMIPRAMINE HCL 25mg tablets
+d73u.,CLOMIPRAMINE HCL 10mg capsules
+d73v.,CLOMIPRAMINE HCL 25mg capsules
+d73w.,CLOMIPRAMINE HCL 50mg capsules
+d73x.,CLOMIPRAMINE HYDROCHLORIDE 25mg/5mL syrup
+d73y.,CLOMIPRAMINE HCL 25mg/2mL injection
+d73z.,CLOMIPRAMINE HCL 75mg m/r tabs
+d74..,DESIPRAMINE HYDROCHLORIDE
+d741.,*PERTOFRAN 25mg tablets
+d74z.,DESIPRAMINE HYDROCHLORIDE 25mg tablets
+d75..,DOSULEPIN HYDROCHLORIDE
+d751.,PROTHIADEN 25mg capsules
+d752.,PROTHIADEN 75mg tablets
+d753.,*PREPADINE 25mg capsules
+d754.,*PREPADINE 75mg tablets
+d755.,*DOTHAPAX 25mg capsules
+d756.,*DOTHAPAX 75mg tablets
+d759.,*THADEN 25mg capsules
+d75A.,*THADEN 75mg tablets
+d75y.,DOSULEPIN HYDROCHLORIDE 25mg capsules
+d75z.,DOSULEPIN HYDROCHLORIDE 75mg tablets
+d76..,DOXEPIN
+d761.,*SINEQUAN 10mg capsules x56CP
+d762.,*SINEQUAN 25mg capsules x28CP
+d763.,*SINEQUAN 50mg capsules x28CP
+d764.,*SINEQUAN 75mg capsules x28CP
+d765.,SINEPIN 25mg capsules
+d765.,*SINEPIN 25mg capsules
+d766.,SINEPIN 50mg capsules
+d766.,*SINEPIN 50mg capsules
+d76w.,*DOXEPIN 10mg capsules
+d76x.,DOXEPIN 25mg capsules
+d76y.,DOXEPIN 50mg capsules
+d76z.,*DOXEPIN 75mg capsules
+d77..,IMIPRAMINE HYDROCHLORIDE [ANTIDEPRESSANT]
+d771.,IMIPRAMINE 10mg tabs
+d772.,IMIPRAMINE 25mg tablets
+d773.,*PRAMINIL 10mg tablets
+d774.,*PRAMINIL 25mg tablets
+d775.,*TOFRANIL 10mg tablets
+d776.,*TOFRANIL 25mg tablets
+d777.,*TOFRANIL 25mg/5mL syrup
+d77w.,IMIPRAMINE HYDROCHLORIDE 25mg/5mL oral solution
+d77x.,IMIPRAMINE HYDROCHLORIDE 10mg tablets
+d77y.,IMIPRAMINE HYDROCHLORIDE 25mg tablets
+d77z.,IMIPRAMINE HYDROCHLORIDE 25mg/5mL syrup
+d78..,IPRINDOLE
+d781.,*PRONDOL 15mg tablets
+d782.,*PRONDOL 30mg tablets
+d78y.,*IPRINDOLE 15mg tablets
+d78z.,*IPRINDOLE 30mg tablets
+d79..,LOFEPRAMINE
+d791.,*GAMANIL 70mg tablets x56CP
+d792.,LOMONT 70mg/5mL sugar free suspension
+d793.,*FEPRAPAX 70mg tablets
+d794.,*GAMANIL 70mg tablets
+d79y.,LOFEPRAMINE 70mg/5mL sugar free suspension
+d79z.,LOFEPRAMINE 70mg tablets
+d7a..,MAPROTILINE HYDROCHLORIDE
+d7a1.,*LUDIOMIL 10mg tablets
+d7a2.,*LUDIOMIL 25mg tablets
+d7a3.,*LUDIOMIL 50mg tablets
+d7a4.,*LUDIOMIL 75mg tablets x28CP
+d7aw.,MAPROTILINE HYDROCHLORIDE 10mg tablets
+d7ax.,MAPROTILINE HYDROCHLORIDE 25mg tablets
+d7ay.,MAPROTILINE HYDROCHLORIDE 50mg tablets
+d7az.,MAPROTILINE HYDROCHLORIDE 75mg tablets
+d7b..,MIANSERIN HYDROCHLORIDE
+d7b1.,MIANSERIN 10mg tablets
+d7b2.,MIANSERIN 20mg tablets
+d7b3.,MIANSERIN 30mg tablets
+d7b4.,*BOLVIDON 10mg tablets
+d7b5.,*BOLVIDON 20mg tablets
+d7b6.,*BOLVIDON 30mg tablets
+d7b7.,*NORVAL 10mg tablets
+d7b8.,*NORVAL 20mg tablets
+d7b9.,*NORVAL 30mg tablets
+d7c..,NORTRIPTYLINE
+d7c1.,*ALLEGRON 10mg tablets
+d7c2.,*ALLEGRON 25mg tablets
+d7c3.,*AVENTYL 10mg capsules
+d7c4.,*AVENTYL 25mg capsules
+d7c5.,*AVENTYL 10mg/5mL liquid
+d7c6.,NORTRIPTYLINE 10mg tablets
+d7c7.,*NORTRIPTYLINE 10mg/5mL liquid
+d7c8.,NORTRIPTYLINE 25mg tablets
+d7c9.,*NORTRIPTYLINE 10mg capsules
+d7cy.,*NORTRIPTYLINE 25mg capsules
+d7d..,PROTRIPTYLINE HYDROCHLORIDE
+d7d1.,*CONCORDIN 5mg tablets
+d7d2.,*CONCORDIN 10mg tablets
+d7d3.,PROTRIPTYLINE HYDROCHLORIDE 5mg tablets
+d7d4.,PROTRIPTYLINE HYDROCHLORIDE 10mg tablets
+d7e..,TRAZODONE HYDROCHLORIDE
+d7e1.,MOLIPAXIN 50mg capsules x84CP
+d7e2.,MOLIPAXIN 100mg capsules x56CP
+d7e3.,*MOLIPAXIN 50mg/5mL liquid
+d7e4.,MOLIPAXIN 150mg tablets x28CP
+d7e5.,TRAZODONE HYDROCHLORIDE 150mg tablets
+d7e6.,MOLIPAXIN CR 150mg m/r tablets x28
+d7e7.,TRAZODONE HYDROCHLORIDE 150mg m/r tablets
+d7ew.,TRAZODONE HYDROCHLORIDE 100mg capsules
+d7ex.,TRAZODONE HYDROCHLORIDE 50mg capsules
+d7ez.,TRAZODONE HYDROCHLORIDE 50mg/5mL liquid
+d7f..,TRIMIPRAMINE
+d7f1.,*SURMONTIL 50mg capsules x28CP
+d7f1.,SURMONTIL 50mg capsules x28CP
+d7f2.,*SURMONTIL 10mg tablets
+d7f2.,SURMONTIL 10mg tablets
+d7f3.,*SURMONTIL 25mg tablets
+d7f3.,SURMONTIL 25mg tablets
+d7fx.,TRIMIPRAMINE 50mg capsules
+d7fy.,TRIMIPRAMINE 10mg tablets
+d7fz.,TRIMIPRAMINE 25mg tablets
+d7g..,VILOXAZINE HYDROCHLORIDE
+d7g1.,*VIVALAN 50mg tablets
+d7gz.,*VILOXAZINE 50mg tablets
+d7h..,AMOXAPINE
+d7h1.,*AMOXAPINE 25mg tablets
+d7h2.,*AMOXAPINE 50mg tablets
+d7h3.,*AMOXAPINE 100mg tablets
+d7h4.,*AMOXAPINE 150mg tablets
+d7h5.,*ASENDIS 25mg tablets
+d7h6.,*ASENDIS 50mg tablets
+d7h7.,*ASENDIS 100mg tablets
+d7h8.,*ASENDIS 150mg tablets

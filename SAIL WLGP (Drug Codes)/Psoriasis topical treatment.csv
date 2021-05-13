@@ -1,0 +1,199 @@
+READ_CODE,DESCRIPTION
+m5...,PSORIASIS AND ECZEMA PREPARATIONS
+m51..,COAL TAR
+m511.,CALAMINE AND COAL TAR ointment
+m512.,COAL TAR+SALICYLIC ACID ointment
+m513.,COAL TAR 10% paint
+m514.,COAL TAR 7.5% paste
+m515.,ZINC AND COAL TAR paste
+m516.,*ALPHOSYL cream 100g
+m517.,*ALPHOSYL lotion 250mL
+m518.,*CARBO-DOME 10% cream 30g
+m518.,CARBO-DOME 10% cream 30g
+m519.,CARBO-DOME 10% cream 100g
+m519.,*CARBO-DOME 10% cream 100g
+m51A.,COAL TAR BPC ointment
+m51B.,*TARCORTIN cream 100g
+m51C.,*CLINITAR 1% cream 100g
+m51E.,BALNEUM WITH TAR bath oil 200mL
+m51F.,*PIXOL bath+shower gel
+m51G.,BALTAR 1.5% scalp application 200mL
+m51H.,COAL TAR 1% lotion
+m51I.,EXOREX lotion 100mL
+m51L.,EXOREX lotion 250mL
+m51R.,COAL TAR 40% bath emulsion
+m51T.,*PSORIGEL 7.5% gel 100g
+m51a.,*CLINITAR 1% cream 60g
+m51b.,*CLINITAR 2.5% gel 40g
+m51c.,*GELCOTAR gel 50g
+m51d.,*GELCOTAR gel 500g
+m51e.,*MEDITAR 5% wax stick x1
+m51f.,*PRAGMATAR cream 25g
+m51g.,PSORIDERM cream 225mL
+m51h.,*PSORIGEL 7.5% gel 90g
+m51i.,*ZINC PASTE + COAL TAR bandage
+m51j.,*COLTAPASTE 7.5cmx6m bandage
+m51k.,*TARBAND bandage
+m51l.,COAL TAR 20% solution
+m51m.,*POLYTAR emollient 350mL
+m51n.,PSORIDERM 40% bath emulsion 200mL
+m51o.,*ALPHOSYL HC cream 30g
+m51p.,*ALPHOSYL HC cream 45g
+m51q.,*CARBO-CORT cream 30g
+m51r.,*TARCORTIN cream 30g
+m51s.,*TARCORTIN cream 45g
+m51t.,*GELCOSAL 5% gel 50g
+m51u.,BALTAR 1.5% scalp application 225mL
+m51v.,BALTAR 1.5% scalp application 500mL
+m51w.,BALNEUM WITH TAR bath oil 225mL
+m51x.,*PRAGMATAR cream 100g
+m51y.,*POLYTAR emollient 1L
+m51z.,*ALPHOSYL HC cream 100g
+m51z.,ALPHOSYL HC cream 100g
+m52..,*BUFEXAMAC
+m521.,*PARFENAC 5% cream 15g
+m522.,*PARFENAC 5% cream 30g
+m52z.,*BUFEXAMAC 5% cream
+m53..,DITHRANOL
+m531.,DITHRANOL ointment
+m532.,*DITHRANOL WEAK 0.1% paste
+m533.,*DITHRANOL STRONG 1% paste
+m534.,*ANTHRANOL 0.4% ointment 50g
+m535.,*ANTHRANOL 1% ointment 50g
+m536.,*ANTHRANOL 2% ointment 50g
+m537.,*ANTRADERM MILD 0.5% wax stick
+m538.,*ANTRADERM 1% waxstick x1
+m539.,ANTRADERM FORTE 2% waxstick x1
+m53A.,PSORIN scalp gel
+m53B.,DITHRANOL+SALICYLIC ACID 0.25%/1.6% scalp gel
+m53C.,DITHRANOL+SALICYLIC ACID+COAL TAR 0.11%/1.6%/1% ointment
+m53F.,DITHRANOL+SALICYLIC ACID 0.5%/0.5% ointment
+m53a.,DITHROCREAM 0.1% cream 50g
+m53b.,DITHROCREAM 0.25% cream 50g
+m53c.,DITHROCREAM FORTE 0.5% cream 50g
+m53d.,DITHROCREAM HP 1% cream 50g
+m53e.,*DITHROLAN ointment 90g
+m53f.,*PSORADRATE 0.1% cream 30g
+m53g.,*PSORADRATE 0.1% cream 100g
+m53h.,*PSORADRATE 0.2% cream 30g
+m53i.,*PSORADRATE 0.2% cream 100g
+m53j.,*PSORADRATE 0.4% cream 100g
+m53k.,PSORIN ointment 25g
+m53l.,PSORIN ointment 50g
+m53m.,PSORIN ointment 100g
+m53n.,DITHROCREAM 2% cream 50g
+m53o.,*ALPHODITH 0.4% ointment 50g
+m53p.,*ALPHODITH 1% ointment 50g
+m53q.,*ALPHODITH 2% ointment 50g
+m53r.,*ALPHODITH 3% ointment 50g
+m53s.,MICANOL 1% cream 50g
+m53t.,MICANOL 3% cream 50g
+m54..,DITHRANOL TRIACETATE
+m541.,*EXOLAN 1% cream 50g
+m54z.,*DITHRANOL TRIACETATE 1% cream
+m56..,ICHTHAMMOL
+m561.,ICHTHAMMOL 10% ointment
+m562.,*ZINC AND ICHTHAMMOL cream
+m563.,ZINC PASTE + ICHTHAMMOL bandage
+m564.,ICHTHOPASTE bandage
+m565.,ICTHABAND bandage
+m566.,ZINC PASTE AND ICHTHAMMOL 6%/2% 7.5cmx6m bandage
+m567.,ZINC PASTE AND ICHTHAMMOL 15%/2% 7.5cmx6m bandage
+m57..,SALICYLIC ACID [PSORIASIS]
+m571.,SALICYLIC ACID 2% ointment
+m572.,ZINC AND SALICYLIC ACID paste
+m573.,*KERALYT 6% gel 55g
+m574.,ZINC AND SALICYLIC ACID PASTE HALF STRENGTH
+m59..,CALCIPOTRIOL
+m591.,CALCIPOTRIOL 50micrograms/g ointment
+m592.,DOVONEX 0.005% ointment 30g
+m593.,*DOVONEX 0.005% ointment 100g
+m594.,*DOVONEX 50micrograms/g cream
+m595.,CALCIPOTRIOL 50micrograms/g cream
+m596.,*DOVONEX scalp solution 60mL
+m597.,CALCIPOTRIOL 50micrograms/mL scalp solution
+m598.,DOVONEX 50micrograms/g ointment
+m599.,DOVONEX 0.005% ointment 60g
+m59A.,DOVONEX 0.005% ointment 120g
+m59B.,*DOVONEX 0.005% cream 30g
+m59C.,*DOVONEX 0.005% cream 60g
+m59D.,*DOVONEX 0.005% cream 120g
+m59E.,*DOVONEX scalp solution 120mL
+m59F.,*DOVONEX 0.005% ointment 240g
+m59G.,CALCIPOTRIOL+BETAMETHASONE 50micrograms/500micrograms/g ointment
+m59H.,DOVOBET ointment 120g
+m59H.,*DOVOBET ointment 120g
+m59I.,DOVOBET ointment 60g
+m59I.,*DOVOBET ointment 60g
+m59J.,XAMIOL gel 60g
+m59J.,*XAMIOL gel 60g
+m59K.,CALCIPOTRIOL+BETAMETHASONE 50micrograms/500micrograms/g gel
+m59L.,DOVOBET gel 60g
+m59M.,DOVOBET gel 120g
+m59N.,DOVOBET ointment 30g
+m59O.,DOVOBET gel 30g
+m59P.,DOVOBET gel 60g with applicator
+m5B..,TACALCITOL
+m5B1.,TACALCITOL 4micrograms/g ointment
+m5B2.,CURATODERM 4micrograms/g ointment 30g
+m5B3.,CURATODERM 4micrograms/g ointment 60g
+m5B4.,CURATODERM 4micrograms/g ointment 100g
+m5B5.,CURATODERM 4micrograms/g lotion 30mL
+m5B6.,TACALCITOL 4micrograms/g lotion
+m5C..,TAZAROTENE
+m5C1.,TAZAROTENE 0.05% aqueous gel
+m5C2.,TAZAROTENE 0.1% aqueous gel
+m5C3.,ZORAC 0.05% aqueous gel 30g
+m5C4.,*ZORAC 0.05% aqueous gel 60g
+m5C5.,ZORAC 0.1% aqueous gel 30g
+m5C6.,*ZORAC 0.1% aqueous gel 60g
+m5D..,COAL TAR [2]
+m5D1.,POLYTAR emollient 500mL
+m5D1.,*POLYTAR emollient 500mL
+m5D2.,COAL TAR 12%/SULFUR 4%/SALICYLIC ACID 2% ointment
+m5D2.,COAL TAR 12%/SULPHUR 4%/SALICYLIC ACID 2% ointment
+m5D3.,SEBCO ointment 40g
+m5D4.,SEBCO ointment 100g
+m5E..,TACROLIMUS [SKIN]
+m5E1.,TACROLIMUS MONOHYDRATE 0.03% ointment
+m5E2.,TACROLIMUS MONOHYDRATE 0.1% ointment
+m5E3.,PROTOPIC 0.03% ointment 30g
+m5E4.,PROTOPIC 0.03% ointment 60g
+m5E5.,PROTOPIC 0.1% ointment 30g
+m5E6.,PROTOPIC 0.1% ointment 60g
+m5F..,PIMECROLIMUS
+m5F1.,PIMECROLIMUS 10mg/g cream
+m5F2.,ELIDEL 1% cream 30g
+m5G..,PINE TAR
+m5G1.,*PINE TAR 2.3% solution
+m5G2.,*PINETARSOL solution 200mL
+m5G3.,*PINETARSOL solution 500mL
+m5G4.,*PINE TAR 2.3% bath oil
+m5G5.,*PINETARSOL bath oil 200mL
+m5G6.,*PINETARSOL bath oil 500mL
+m5G7.,*PINE TAR 1.6% gel
+m5G8.,*PINETARSOL gel 100g
+m5z..,DITHRANOL [GENERIC ADDITIONS]
+m5z1.,DITHRANOL 0.1% ointment BP
+m5z2.,DITHRANOL 0.2% ointment BP
+m5z3.,DITHRANOL 0.5% ointment BP
+m5z4.,DITHRANOL 1.5% ointment BP
+m5z5.,DITHRANOL 0.2% paste BP
+m5z6.,DITHRANOL 0.5% paste BP
+m5z7.,*DITHRANOL 3% ointment BP
+m5z8.,DITHRANOL 2% cream
+m5z9.,DITHRANOL 3% cream
+m5zm.,DITHRANOL 0.1% paste
+m5zn.,DITHRANOL 1% paste
+m5zo.,*DITHRANOL 0.4% ointment
+m5zp.,*DITHRANOL 1% ointment
+m5zq.,*DITHRANOL 2% ointment
+m5zr.,*DITHRANOL 0.5% waxstick
+m5zs.,*DITHRANOL 1% waxstick
+m5zt.,*DITHRANOL 2% waxstick
+m5zu.,DITHRANOL 0.25% cream
+m5zv.,DITHRANOL 0.5% cream
+m5zw.,DITHRANOL 1% cream
+m5zx.,DITHRANOL 0.1% cream
+m5zy.,DITHRANOL 0.2% cream
+m5zz.,DITHRANOL 0.4% cream

@@ -1,0 +1,544 @@
+READ_CODE,DESCRIPTION
+c1...,SELECTIVE BETA-ADRENOCEPTOR STIMULANT
+c11..,SALBUTAMOL [ORAL PREPARATIONS]
+c111.,*ASMAVEN 2mg tablets
+c112.,*ASMAVEN 4mg tablets
+c113.,*COBUTOLIN 2mg tablets
+c114.,*COBUTOLIN 4mg tablets
+c115.,*SALBULIN 2mg tablets
+c116.,*SALBULIN 4mg tablets
+c117.,*SALBULIN 2mg/2mL liquid
+c118.,*VENTOLIN 2mg tablets
+c119.,*VENTOLIN 4mg tablets
+c11A.,*VENTOLIN CR 4mg m/r tablets
+c11B.,*SALBUTAMOL 4mg m/r tablets
+c11C.,*VENTOLIN CR 8mg m/r tablets
+c11D.,SALAPIN 2mg/5mL sugar free syrup
+c11a.,*VENTOLIN 8mg m/r tablets
+c11b.,VENTOLIN 2mg/5mL syrup
+c11c.,*VOLMAX 4mg m/r tablets
+c11d.,*VOLMAX 8mg m/r tablets
+c11e.,*SALBUVENT 2mg tablets
+c11f.,*SALBUVENT 4mg tablets
+c11g.,*SALBUVENT 2mg/5mL syrup
+c11h.,SALBUVENT 2mg/5mL syrup 2litre
+c11i.,*VENTOLIN CR 4mg m/r tablets
+c11j.,*SALBUTAMOL 4mg m/r tablets
+c11k.,*VENTOLIN CR 8mg m/r tablets
+c11m.,LIBETIST 2mg/5mL sugar free syrup
+c11n.,*SALBUTAMOL 4mg m/r capsules
+c11n.,SALBUTAMOL 4mg m/r capsules
+c11o.,SALBUTAMOL 8mg m/r capsules
+c11o.,*SALBUTAMOL 8mg m/r capsules
+c11p.,*VENTMAX SR 4mg m/r capsules
+c11p.,VENTMAX SR 4mg m/r capsules
+c11q.,*VENTMAX SR 8mg m/r capsules
+c11q.,VENTMAX SR 8mg m/r capsules
+c11v.,SALBUTAMOL 4mg tablets
+c11w.,*SALBUTAMOL 2mg/2mL liquid
+c11x.,SALBUTAMOL 2mg tablets
+c11y.,*SALBUTAMOL 8mg m/r tablets
+c11z.,SALBUTAMOL 2mg/5mL sugar free syrup
+c12..,SALBUTAMOL [PARENTERAL PREPARATIONS]
+c121.,VENTOLIN 250micrograms/5mL injection
+c122.,VENTOLIN 500microgram/1mL injection
+c123.,VENTOLIN 5mg/5mL intravenous infusion
+c124.,SALBUVENT 250microgram/5mL injection
+c125.,SALBUVENT 500micrograms/1mL injection
+c126.,SALBUVENT 5mg/5mL intravenous infusion
+c12w.,*SALBUTAMOL 5mg/50mL injection
+c12x.,SALBUTAMOL 250micrograms/5mL injection
+c12y.,SALBUTAMOL 500microgram/1mL injection
+c12z.,SALBUTAMOL 5mg/5mL intravenous infusion
+c13..,SALBUTAMOL [INHALATION PREPRATIONS]
+c131.,*ASMAVEN 100micrograms inhaler
+c132.,COBUTOLIN 100microgram inhaler
+c133.,SALBULIN 100micrograms inhaler
+c134.,VENTOLIN 100micrograms inhaler
+c135.,VENTOLIN 2.5mg/2.5mL Nebules
+c136.,VENTOLIN 200micrograms rotacaps
+c137.,VENTOLIN 400micrograms rotacaps
+c138.,ROTAHALER DEVICE
+c139.,VENTOLIN 100mg/20mL respirator solution
+c13A.,STERI-NEB SALAMOL 2.5mg nebulisation units
+c13B.,STERI-NEB SALAMOL 5mg nebulisation units
+c13C.,SALBUTAMOL 200micrograms disks+disk inhaler
+c13D.,SALBUTAMOL 400micrograms disks+disk inhaler
+c13E.,SALBUTAMOL 200micrograms disk refill
+c13F.,SALBUTAMOL 400micrograms disk refill
+c13G.,SALBUTAMOL 100micrograms breath-act aerosol inhaler
+c13H.,*SALAMOL 100micrograms inhaler
+c13I.,AIROMIR 100micrograms CFC-free inhaler
+c13J.,SALBUTAMOL 100micrograms CFC-free inhaler
+c13K.,SALAMOL EASI-BREATHE 100micrograms breath-actuated aerosol inhaler
+c13L.,SALBUTAMOL 200micrograms breath-actuated dry powder inhaler
+c13M.,VENTOLIN 200micrograms Accuhaler
+c13N.,SALBUTAMOL 100micrograms vortex metered dose inhaler
+c13O.,VENTOLIN EASI-BREATHE 100microgram inhaler
+c13P.,SALBUTAMOL 100micrograms Spacehaler
+c13Q.,ASMASAL 95micrograms Clickhaler
+c13R.,SALBUTAMOL 100micrograms breath-act dry powder inhaler
+c13S.,SALBUTAMOL 95micrograms breath-actuated dry powder inhaler
+c13T.,VENTOLIN 100micrograms Evohaler
+c13U.,SALBUTAMOL 100micrograms CFC-free breath-actuated aerosol inhaler
+c13V.,AIROMIR 100micrograms CFC-free Autohaler
+c13W.,MAXIVENT 2.5mg/2.5mL Steripoules
+c13X.,MAXIVENT 5mg/2.5mL Steripoules
+c13Y.,SALBULIN 100micrograms CFC-free inhaler
+c13Z.,SALAMOL 100micrograms CFC-free inhaler
+c13a.,AEROLIN-400 100microgram inhaler
+c13b.,*ROTAHALER DEVICE
+c13c.,AEROLIN AUTO 100microgram inhaler
+c13d.,VENTODISKS 200micrograms diskhaler 14x8
+c13e.,VENTODISKS 400micrograms diskhaler 14x8
+c13f.,VENTODISKS 200micrograms disk refill 14x8
+c13g.,VENTODISKS 400micrograms disk refill 14x8
+c13h.,SALBUVENT 100micrograms inhaler
+c13i.,SALBUVENT RONDO 100microgram inhaler
+c13j.,SALBUVENT 5mg/mL respirator solution
+c13k.,*SALBUVENT RONDO spacer x1
+c13l.,AEROLIN 100micrograms Autohaler 200d
+c13m.,VENTOLIN 5mg/2.5mL Nebules
+c13n.,AEROLIN 100micrograms Autohaler 100d
+c13o.,SALBUTAMOL 5mg/2.5mL nebulisation units
+c13p.,*MAXIVENT 100microgram inhaler
+c13q.,*SALBUTAMOL 200 cyclocaps
+c13r.,*SALBUTAMOL 400 cyclocaps
+c13s.,*VENTOLIN rotahaler device
+c13v.,SALBUTAMOL 100microgram inhaler
+c13w.,SALBUTAMOL 2.5mg/2.5mL nebulisation units
+c13x.,SALBUTAMOL 200micrograms inhalation capsules
+c13y.,SALBUTAMOL 400micrograms inhalation capsules
+c13z.,SALBUTAMOL 100mg/20mL respirator solution
+c14..,TERBUTALINE SULPHATE [RESPIRATORY USE]
+c14..,TERBUTALINE SULFATE [RESPIRATORY USE]
+c141.,BRICANYL 5mg tablets
+c142.,BRICANYL 1.5mg/5mL syrup
+c143.,BRICANYL 500micrograms/1mL injection
+c144.,BRICANYL 250micrograms inhaler
+c145.,BRICANYL 250micrograms refill cannister
+c146.,BRICANYL 250micrograms spacer inhaler
+c147.,BRICANYL RESPULES 5mg/2mL nebuliser solution
+c147.,BRICANYL RESPULES 5mg/2mL nebuliser solution
+c148.,BRICANYL 100mg/10mL respirator solution
+c149.,*BRICANYL SA 7.5mg m/r tablets
+c14a.,*MONOVENT 5mg tablets
+c14b.,*MONOVENT 1.5mg/5mL syrup
+c14c.,*MONOVENT SA 7.5mg m/r tablets
+c14d.,*NEBUHALER spacer device
+c14e.,BRICANYL 2.5mg/5mL injection
+c14f.,BRICANYL 500micrograms Turbohaler
+c14g.,TERBUTALINE 500micrograms inhaler
+c14h.,TERBUTALINE 2.5mg/5mL injection
+c14i.,TERBUTALINE SULPHATE 200mg/20mL nebuliser solution
+c14i.,TERBUTALINE SULPHATE 200mg/20mL nebuliser solution
+c14j.,TERBUTALINE 500micrograms breath-actuated dry powder inhaler
+c14k.,BRICANYL 200mg/20mL respirator solution
+c14k.,BRICANYL 200mg/20mL respirator solution
+c14r.,TERBUTALINE 5mg tablets
+c14s.,TERBUTALINE 500microgram/1mL injection
+c14t.,TERBUTALINE 250micrograms inhaler
+c14u.,TERBUTALINE 250micrograms refill cannister
+c14v.,TERBUTALINE 250micrograms spacer
+c14w.,TERBUTALINE 5mg/2mL nebuliser solution
+c14x.,TERBUTALINE 100mg/10mL respirator solution
+c14y.,*TERBUTALINE 7.5mg m/r tablets
+c14z.,TERBUTALINE 1.5mg/5mL syrup
+c15..,FENOTEROL HYDROBROMIDE
+c151.,*BEROTEC 200micrograms inhaler
+c152.,BEROTEC 100mg/20mL respirator solution
+c153.,*BEROTEC 100micrograms inhaler
+c154.,FENOTEROL 100micrograms inhaler
+c15y.,FENOTEROL 200micrograms inhaler
+c15z.,FENOTEROL 100mg/20mL respirator solution
+c16..,PIRBUTEROL
+c161.,*EXIREL 10mg capsules
+c162.,*EXIREL 15mg capsules
+c163.,*EXIREL 7.5mg/5mL syrup
+c164.,*EXIREL 200micrograms inhaler
+c16w.,*PIRBUTEROL 10mg capsules
+c16x.,*PIRBUTEROL 15mg capsules
+c16y.,*PIRBUTEROL 7.5mg/5mL syrup
+c16z.,PIRBUTEROL 200micrograms inhaler
+c17..,REPROTEROL HYDROCHLORIDE
+c171.,*BRONCHODIL 20mg tablets
+c172.,*BRONCHODIL 10mg/5mL elixir
+c173.,BRONCHODIL 500micrograms inhaler
+c174.,BRONCHODIL 10mg/mL respirator solution
+c17w.,*REPROTEROL 20mg tablets
+c17x.,*REPROTEROL 10mg/5mL elixir
+c17y.,REPROTEROL 500micrograms inhaler
+c17z.,REPROTEROL 10mg/mL respirator solution
+c18..,RIMITEROL HYDROBROMIDE
+c181.,PULMADIL 200micrograms inhaler
+c182.,PULMADIL 200micrograms autohaler
+c183.,PULMADIL 200micrograms auto refill cannister
+c184.,RIMITEROL 200micrograms breath-actuated aerosol inhaler
+c18y.,RIMITEROL 200micrograms inhaler
+c18z.,RIMITEROL 200micrograms auto refill cannister
+c19..,SALMETEROL XINAFOATE
+c191.,SALMETEROL 25microgram inhaler
+c192.,*SEREVENT 25microgram inhaler
+c193.,SEREVENT 50microgram diskhaler
+c193.,*SEREVENT 50mcg diskhaler
+c194.,SEREVENT 50micrograms disk refill
+c194.,SEREVENT 50micrograms disk refill
+c195.,SALMETEROL 50micrograms disks+disk inhaler
+c195.,SALMETEROL 50micrograms disks+disk inhaler
+c196.,SALMETEROL 50micrograms disk refill
+c196.,SALMETEROL 50micrograms disk refill
+c197.,SALMETEROL 50micrograms breath-actuated dry powder inhaler
+c198.,SEREVENT 50micrograms Accuhaler
+c199.,SEREVENT 25micrograms Evohaler
+c19A.,NEOVENT 25micrograms CFC-free inhaler
+c19B.,VERTINE 25micrograms CFC-free inhaler
+c19z.,SALMETEROL 25micrograms CFC-free inhaler
+c1B..,BAMBUTEROL HYDROCHLORIDE
+c1B1.,BAMBEC 10mg tablets
+c1B2.,BAMBEC 20mg tablets
+c1B3.,BAMBUTEROL HYDROCHLORIDE 10mg tablets
+c1B4.,BAMBUTEROL HYDROCHLORIDE 20mg tablets
+c1C..,FORMOTEROL
+c1C1.,FORMOTEROL FUMARATE 12micrograms inhalation capsules+inhaler
+c1C2.,FORADIL 12micrograms inhalation capsules+inhaler
+c1C3.,FORMOTEROL FUMARATE DIHYDRATE 6micrograms breath-act dry powder inhaler
+c1C4.,FORMOTEROL FUMARATE DIHYDRATE 12micrograms breath-act dry powder inhaler
+c1C5.,OXIS 6micrograms Turbohaler
+c1C6.,OXIS 12micrograms Turbohaler
+c1C7.,ATIMOS MODULITE 12micrograms metered dose inhaler
+c1C8.,FORMOTEROL EASYHALER 12micrograms breath-act dry powder inhaler
+c1Cy.,FORMOTEROL FUMARATE DIHYDRATE 12micrograms breath-act dry powder inhaler
+c1Cz.,FORMOTEROL FUMARATE DIHYDRATE 12micrograms metered dose inhaler
+c1D..,SALMETEROL+FLUTICASONE PROPIONATE
+c1D1.,SERETIDE 100 Accuhaler
+c1D2.,SERETIDE 250 Accuhaler
+c1D3.,SERETIDE 500 Accuhaler
+c1D4.,SERETIDE 50 Evohaler
+c1D5.,SERETIDE 125 Evohaler
+c1D6.,SERETIDE 250 Evohaler
+c1D7.,SIRDUPLA 25micrograms/125micrograms inhaler
+c1D8.,SIRDUPLA 25micrograms/250micrograms inhaler
+c1D9.,AIRFLUSAL FORSPIRO 50micrograms/500micrograms pdr inhaler
+c1Du.,SALMETEROL+FLUTICASONE PROPIONATE 25micrograms/50micrograms CFC-free inhaler
+c1Dv.,SALMETEROL+FLUTICASONE PROPIONATE 25micrograms/125micrograms CFC-free inhaler
+c1Dw.,SALMETEROL+FLUTICASONE PROPIONATE 25micrograms/250micrograms CFC-free inhaler
+c1Dx.,SALMETEROL+FLUTICASONE PROPIONATE 50micrograms/100micrograms breath-actuated dry powder inhaler
+c1Dy.,SALMETEROL+FLUTICASONE PROPIONATE 50micrograms/250micrograms breath-actuated dry powder inhaler
+c1Dz.,SALMETEROL+FLUTICASONE PROPIONATE 50micrograms/500micrograms breath-actuated dry powder inhaler
+c1E..,SALBUTAMOL [INHALATION PREPRATIONS 2]
+c1E1.,SALAMOL EASI-BREATHE 100micrograms CFC-free breath-actuated aerosol inhaler
+c1E2.,PULVINAL SALBUTAMOL 200micrograms breath-actuated dry powder inhaler
+c1E3.,VENTODISKS 200micrograms diskhaler 15x8
+c1E4.,VENTODISKS 400micrograms diskhaler 15x8
+c1E5.,VENTODISKS 200micrograms disk refill 15x8
+c1E6.,VENTODISKS 400micrograms disk refill 15x8
+c1E7.,EASYHALER SALBUTAMOL 100micrograms breath-actuated dry powder inhaler
+c1E8.,EASYHALER SALBUTAMOL 200micrograms breath-actuated dry powder inhaler
+c1E9.,SALBULIN NOVOLIZER 100micrograms dry powder cartridge and refillable inhaler device
+c1EA.,SALBUTAMOL 100micrograms dry powder cartridge and refillable inhaler device
+c1EB.,SALBULIN NOVOLIZER 100micrograms dry powder cartridge refill
+c1EC.,SALBUTAMOL 100micrograms dry powder cartridge refill
+c1ED.,VENTOLIN 50mg/10mL respirator solution
+c1EE.,SALBUTAMOL 50mg/10mL respirator solution
+c1a..,TULOBUTEROL HYDROCHLORIDE
+c1a1.,*TULOBUTEROL 2mg tablets
+c1a2.,*BRELOMAX 2mg tablets
+c1a3.,*RESPACAL 2mg tablets
+c1a4.,TULOBUTEROL 1mg/5mL sugar free liquid
+c1a5.,RESPACAL 1mg/5mL sugar free liquid
+c1b..,INDACATEROL
+c1b1.,ONBREZ BREEZHALER 150micrograms inhalation capsules+inhaler
+c1b2.,INDACATEROL 150micrograms inhalation capsules+inhaler
+c1b3.,ONBREZ BREEZHALER 300micrograms inhalation capsules+inhaler
+c1b4.,INDACATEROL 300micrograms inhalation capsules+inhaler
+c1c..,FLUTICASONE PROPIONATE+FORMOTEROL FUMARATE
+c1c1.,FLUTIFORM 50micrograms/5micrograms inhaler
+c1c2.,FLUTIFORM 125micrograms/5micrograms inhaler
+c1c3.,FLUTIFORM 250micrograms/10micrograms inhaler
+c1cx.,FLUTICASONE PROPIONATE+FORMOTEROL FUMARATE 250mcg/10mcg inh
+c1cy.,FLUTICASONE PROPIONATE+FORMOTEROL FUMARATE 125mcg/5mcg inh
+c1cz.,FLUTICASONE PROPIONATE+FORMOTEROL FUMARATE 50mcg/5mcg inh
+c1d..,OLODATEROL
+c1d1.,STRIVERDI RESPIMAT 2.5micrograms inhaler
+c1d2.,OLODATEROL 2.5micrograms inhaler
+c1e..,INDACATEROL+GLYCOPYRRONIUM
+c1e1.,ULTIBRO BREEZHALER 85mcg/43mcg inh powder capsules+inhaler
+c1e2.,INDACATEROL+GLYCOPYRRONIUM 85mcg/43mcg inh powder caps+inh
+c6...,CORTICOSTEROIDS [RESPIRATORY USE]
+c61..,BECLOMETASONE DIPROPIONATE [RESPIRATORY USE]
+c611.,BECLOFORTE 250microgram inhaler
+c612.,BECOTIDE-50 50microgram inhaler
+c613.,BECOTIDE 100micrograms rotacaps
+c614.,BECOTIDE 200micrograms rotacaps
+c615.,*BECOTIDE rotahaler device
+c616.,BECOTIDE 50micrograms/mL nebuliser solution
+c617.,BECOTIDE-100 100microgram inhaler
+c618.,*VOLUMATIC spacer device
+c619.,BECODISK 100micrograms diskhaler 14x8
+c61A.,BECLOMETASONE DIPROPIONATE 400micrograms disks+disk inhaler
+c61B.,BECLOMETASONE DIPROPIONATE 400micrograms disk refill
+c61C.,BECLOMETHASONE DIPROPIONATE 250micrograms inhaler+spacer device
+c61D.,BECLOMETASONE DIPROPIONATE 50micrograms breath-actuated aerosol inhaler
+c61E.,BECLOMETASONE DIPROPIONATE 250micrograms breath-actuated aerosol inhaler
+c61F.,BECLOMETASONE DIPROPIONATE 100micrograms breath-actuated aerosol inhaler
+c61G.,*FILAIR 50micrograms inhaler
+c61H.,*FILAIR 100micrograms inhaler
+c61J.,FILAIR FORTE 250micrograms inhaler
+c61K.,BECLAZONE 50micrograms inhaler
+c61L.,BECLAZONE 100micrograms inhaler
+c61M.,BECLAZONE 250micrograms inhaler
+c61N.,BECLAZONE 50 EASI-BREATHE inhaler
+c61O.,BECLAZONE 100 EASI-BREATHE inhaler
+c61P.,BECLAZONE 250 EASI-BREATHE inhaler
+c61Q.,BECLOFORTE INTEGRA 250micrograms inhaler+compact spacer
+c61R.,BECLOFORTE INTEGRA 250micrograms refill
+c61S.,BECLOMETHASONE DIPROPIONATE 250micrograms inhaler+compact spacer
+c61T.,BECLOMETHASONE DIPROPIONATE 250micrograms compact spacer refill
+c61U.,BECLOMETHASONE rotahaler device
+c61V.,BECLOMETHASONE DIPROPIONATE 50micrograms vortex metered dose inhaler
+c61W.,*BDP 50micrograms Spacehaler
+c61X.,BECLOMETHASONE DIPROPIONATE 100micrograms vortex metered dose inhaler
+c61Y.,*BDP 100micrograms Spacehaler
+c61Z.,BECLOMETHASONE DIPROPIONATE 250micrograms vortex metered dose inhaler
+c61a.,BECODISK 200micrograms diskhaler 14x8
+c61b.,BECOTIDE 400micrograms rotacaps
+c61c.,BECODISK 100micrograms disk refill 14x8
+c61d.,BECODISK 200micrograms disk refill 14x8
+c61e.,BECODISK 400micrograms diskhaler 7x8
+c61f.,BECODISK 400micrograms disk refill 7x8
+c61g.,BECLOFORTE VM 250micrograms inhaler+volumatic
+c61h.,BECLOMETASONE DIPROPIONATE 400micrograms inhalation capsules
+c61i.,BECOTIDE-200 200microgram inhaler
+c61j.,*AEROBEC 50microgram Autohaler
+c61k.,AEROBEC FORTE 250micrograms Autohaler
+c61l.,AEROBEC 100microgram Autohaler
+c61m.,BECLOFORTE DISKHALER 400micrograms 14x8
+c61n.,BECLOFORTE DISKS 400micrograms disk refill 14x8
+c61p.,BECLOMETASONE DIPROPIONATE 100micrograms disks+disk inhaler
+c61q.,BECLOMETASONE DIPROPIONATE 200micrograms disks+disk inhaler
+c61r.,BECLOMETASONE DIPROPIONATE 100micrograms disk refill
+c61s.,BECLOMETASONE DIPROPIONATE 200micrograms disk refill
+c61t.,BECLOMETASONE DIPROPIONATE 250micrograms inhaler
+c61u.,BECLOMETASONE DIPROPIONATE 200micrograms inhaler
+c61v.,BECLOMETASONE DIPROPIONATE 50micrograms inhaler
+c61w.,BECLOMETASONE DIPROPIONATE 100micrograms inhalation capsules
+c61x.,BECLOMETASONE DIPROPIONATE 200micrograms inhalation capsules
+c61y.,BECLOMETHASONE DIPROPIONATE 50micrograms/mL nebuliser solution
+c61z.,BECLOMETASONE DIPROPIONATE 100micrograms inhaler
+c62..,BECLOMETASONE COMPOUNDS
+c621.,*VENTIDE inhaler
+c622.,*VENTIDE Rotacaps
+c623.,*VENTIDE paediatric Rotacaps
+c624.,*VENTIDE Rotahaler device
+c63..,*BETAMETHASONE VALERATE
+c631.,*BEXTASOL 100microgram inhaler
+c63z.,BETAMETHASONE 100micrograms inhaler
+c64..,BUDESONIDE [RESPIRATORY USE]
+c641.,PULMICORT 200micrograms inhaler 200dose
+c642.,PULMICORT 200micrograms refill 100dose
+c643.,PULMICORT 200micrograms refill 200dose
+c644.,PULMICORT LS 50micrograms inhaler
+c645.,PULMICORT LS 50micrograms refill
+c646.,*NEBUHALER spacer device
+c647.,PULMICORT 200microgram inhaler 100dose
+c648.,PULMICORT 200microgram Turbohaler 100dose
+c649.,PULMICORT 400microgram Turbohaler 50dose
+c64A.,BUDESONIDE 200micrograms refill cannister
+c64B.,BUDESONIDE 50micrograms spacer inhaler
+c64C.,PULMICORT 200micrograms spacer inhaler
+c64D.,PULMICORT LS 50micrograms spacer inhaler
+c64E.,PULMICORT 200micrograms inhaler with NebuChamber
+c64F.,BUDESONIDE 200micrograms/dose dry powder cartridge refill
+c64G.,NOVOLIZER BUDESONIDE 200micrograms/dose dry powder cartridge refill
+c64H.,EASYHALER BUDESONIDE 100micrograms breath-actuated dry powder inhaler
+c64I.,EASYHALER BUDESONIDE 200micrograms breath-actuated dry powder inhaler
+c64J.,EASYHALER BUDESONIDE 400micrograms breath-actuated dry powder inhaler
+c64K.,PULMICORT 100micrograms CFC-free inhaler
+c64L.,BUDESONIDE 100micrograms CFC-free inhaler
+c64M.,PULMICORT 200micrograms CFC-free inhaler
+c64N.,BUDESONIDE 200micrograms CFC-free inhaler
+c64a.,PULMICORT 500micrograms Respules 2mL unit
+c64b.,PULMICORT 1mg Respules 2mL unit
+c64c.,PULMICORT 100microgram Turbohaler 200dose
+c64d.,BUDESONIDE 100micrograms breath-actuated dry powder inhaler
+c64e.,BUDESONIDE 50micrograms refill cannister
+c64g.,BUDESONIDE 200micrograms breath-actuated dry powder inhaler
+c64h.,BUDESONIDE 400micrograms breath-actuated dry powder inhaler
+c64i.,BUDESONIDE 500micrograms/2mL nebuliser solution
+c64j.,BUDESONIDE 1mg/2mL nebuliser solution
+c64k.,*BUDESONIDE 200 Cyclocaps
+c64l.,*BUDESONIDE 400 Cyclocaps
+c64m.,BUDESONIDE 200micrograms inhalation capsules
+c64n.,BUDESONIDE 400micrograms inhalation capsules
+c64o.,BUDESONIDE 200micrograms inhaler with spacer device
+c64p.,NOVOLIZER BUDESONIDE 200micrograms/dose dry powder cartridge and refillable inhaler device
+c64u.,BUDESONIDE 200micrograms/dose dry powder cartridge and refillable inhaler device
+c64v.,BUDESONIDE 200micrograms inhaler
+c64w.,*BUDESONIDE refill 100dose
+c64x.,*BUDESONIDE refill 200dose
+c64y.,BUDESONIDE 50micrograms inhaler
+c64z.,BUDESONIDE 200micrograms spacer inhaler
+c65..,FLUTICASONE PROPIONATE [RESPIRATORY USE]
+c651.,FLIXOTIDE 50micrograms diskhaler
+c652.,FLIXOTIDE 100micrograms diskhaler
+c653.,FLIXOTIDE 250micrograms diskhaler
+c654.,FLUTICASONE PROPIONATE 50micrograms disks+disk inhaler
+c655.,FLUTICASONE PROPIONATE 100micrograms disks+disk inhaler
+c656.,FLUTICASONE PROPIONATE 250micrograms disks+disk inhaler
+c657.,FLIXOTIDE 50micrograms disk refill
+c658.,FLIXOTIDE 100micrograms disk refill
+c659.,FLIXOTIDE 250micrograms disk refill
+c65A.,FLUTICASONE PROPIONATE 50micrograms disk refill
+c65B.,FLUTICASONE PROPIONATE 100micrograms disk refill
+c65C.,FLUTICASONE PROPIONATE 250micrograms disk refill
+c65D.,FLIXOTIDE 25micrograms inhaler
+c65E.,FLIXOTIDE 50micrograms inhaler
+c65F.,FLIXOTIDE 125micrograms inhaler
+c65G.,FLUTICASONE PROPIONATE 25micrograms inhaler
+c65H.,FLUTICASONE PROPIONATE 50micrograms inhaler
+c65I.,FLUTICASONE PROPIONATE 125micrograms inhaler
+c65J.,FLUTICASONE PROPIONATE 250micrograms inhaler
+c65K.,FLIXOTIDE 250micrograms inhaler
+c65L.,FLIXOTIDE 500micrograms diskhaler
+c65M.,FLIXOTIDE 500micrograms disk refill
+c65N.,FLUTICASONE PROPIONATE 500micrograms disks+disk inhaler
+c65O.,FLUTICASONE PROPIONATE 500micrograms disk refill
+c65P.,FLUTICASONE PROPIONATE 50micrograms breath-actuated dry powder inhaler
+c65Q.,FLUTICASONE PROPIONATE 100micrograms breath-actuated dry powder inhaler
+c65R.,FLUTICASONE PROPIONATE 250micrograms breath-actuated dry powder inhaler
+c65S.,FLUTICASONE PROPIONATE 500micrograms breath-actuated dry powder inhaler
+c65T.,FLIXOTIDE 50micrograms Accuhaler
+c65U.,FLIXOTIDE 100micrograms Accuhaler
+c65V.,FLIXOTIDE 250micrograms Accuhaler
+c65W.,FLIXOTIDE 500micrograms Accuhaler
+c65X.,FLUTICASONE PROPIONATE 0.5mg/2mL nebulisation units
+c65Y.,FLUTICASONE PROPIONATE 2mg/2mL nebulisation units
+c65Z.,FLIXOTIDE 0.5mg/2mL Nebules
+c65a.,FLIXOTIDE 2mg/2mL Nebules
+c65b.,FLUTICASONE PROPIONATE 125micrograms CFC-free inhaler
+c65c.,FLUTICASONE PROPIONATE 250micrograms CFC-free inhaler
+c65d.,FLIXOTIDE 125micrograms Evohaler
+c65e.,FLIXOTIDE 250micrograms Evohaler
+c65f.,FLUTICASONE PROPIONATE 50micrograms CFC-free inhaler
+c65g.,FLIXOTIDE 50micrograms Evohaler
+c66..,BECLOMETASONE DIPROPIONATE [RESPIRATORY USE 2]
+c661.,*BDP 250micrograms Spacehaler
+c662.,BECOTIDE 50 EASI-BREATHE inhaler
+c663.,BECOTIDE 100 EASI-BREATHE inhaler
+c664.,BECLOFORTE EASI-BREATHE 250micrograms inhaler
+c665.,QVAR 50 inhaler
+c666.,QVAR 100 inhaler
+c667.,QVAR 50 Autohaler
+c668.,QVAR 100 Autohaler
+c669.,*BECLAZONE 200 inhaler
+c66A.,BECLOMETASONE DIPROPIONATE 50micrograms breath-actuated dry powder inhaler
+c66B.,BECLOMETASONE DIPROPIONATE 100micrograms breath-actuated dry powder inhaler
+c66C.,BECLOMETASONE DIPROPIONATE 250micrograms breath-actuated dry powder inhaler
+c66D.,ASMABEC 50micrograms Clickhaler
+c66E.,ASMABEC 100micrograms Clickhaler
+c66F.,ASMABEC 250micrograms Clickhaler
+c66G.,BECLOMETASONE DIPROPIONATE 400micrograms breath-actuated dry powder inhaler
+c66H.,BECLOMETASONE DIPROPIONATE 200micrograms breath-actuated dry powder inhaler
+c66I.,PULVINAL BECLOMETHASONE DIPROPIONATE 100micrograms breath-actuated dry powder inhaler
+c66J.,PULVINAL BECLOMETHASONE DIPROPIONATE 200micrograms breath-actuated dry powder inhaler
+c66K.,PULVINAL BECLOMETHASONE DIPROPIONATE 400micrograms breath-actuated dry powder inhaler
+c66L.,*BECLOMETASONE 100 cyclocaps
+c66M.,*BECLOMETASONE 200 cyclocaps
+c66N.,*BECLOMETASONE 400 cyclocaps
+c66P.,BECODISK 100micrograms diskhaler 15x8
+c66Q.,BECODISK 200micrograms diskhaler 15x8
+c66R.,BECODISK 400micrograms diskhaler 15x8
+c66S.,BECODISK 100micrograms disk refill 15x8
+c66T.,BECODISK 200micrograms disk refill 15x8
+c66U.,BECODISK 400micrograms disk refill 15x8
+c66V.,BECLOMETASONE DIPROPIONATE 50micrograms CFC-free inhaler
+c66W.,BECLOMETASONE DIPROPIONATE 100micrograms CFC-free inhaler
+c66X.,BECLOMETASONE DIPROPIONATE 50micrograms CFC-free breath-actuated aerosol inhaler
+c66Y.,BECLOMETASONE DIPROPIONATE 100micrograms CFC-free breath-actuated aerosol inhaler
+c66Z.,QVAR EASI-BREATHE 50micrograms CFC-free breath-actuated dry powder inhaler
+c66a.,QVAR EASI-BREATHE 100micrograms CFC-free breath-actuated dry powder inhaler
+c66b.,EASYHALER BECLOMETASONE 200micrograms breath-actuated dry powder inhaler
+c66c.,CLENIL MODULITE 50micrograms CFC-free inhaler
+c66d.,CLENIL MODULITE 100micrograms CFC-free inhaler
+c66e.,CLENIL MODULITE 200micrograms CFC-free inhaler
+c66f.,CLENIL MODULITE 250micrograms CFC-free inhaler
+c66g.,BECLOMETASONE DIPROPIONATE 200micrograms CFC-free inhaler
+c66h.,BECLOMETASONE DIPROPIONATE 250micrograms CFC-free inhaler
+c67..,BUDESONIDE+FORMOTEROL
+c671.,SYMBICORT 100/6 Turbohaler
+c672.,SYMBICORT 200/6 Turbohaler
+c673.,SYMBICORT 400/12 Turbohaler
+c674.,DUORESP SPIROMAX 160mcg/4.5mcg breath-act dry powder inhaler
+c675.,DUORESP SPIROMAX 320mcg/9mcg breath-act dry powder inhaler
+c67x.,BUDESONIDE+FORMOTEROL FUMARATE DIHYDRATE 400micrograms/12micrograms breath-actuated dry powder inhaler
+c67y.,BUDESONIDE+FORMOTEROL FUMARATE DIHYDRATE 200micrograms/6micrograms breath-actuated dry powder inhaler
+c67z.,BUDESONIDE+FORMOTEROL FUMARATE DIHYDRATE 100micrograms/6micrograms breath-actuated dry powder inhaler
+c68..,MOMETASONE [RESPIRATORY USE]
+c681.,MOMETASONE FUROATE 200micrograms breath-actuated dry powder inhaler
+c682.,MOMETASONE FUROATE 400micrograms breath-actuated dry powder inhaler
+c683.,ASMANEX TWISTHALER 200micrograms breath-actuated dry powder inhaler
+c684.,ASMANEX TWISTHALER 400micrograms breath-actuated dry powder inhaler
+c69..,CICLESONIDE
+c691.,ALVESCO 160micrograms inhaler
+c692.,ALVESCO 80micrograms inhaler
+c69y.,CICLESONIDE 80micrograms inhaler
+c69z.,CICLESONIDE 160micrograms inhaler
+c6A..,BECLOMETASONE+FORMOTEROL
+c6A1.,FOSTAIR 100micrograms/6micrograms inhaler
+c6A2.,FOSTAIR NEXTHALER 100micrograms/6micrograms powder inhaler
+c6A3.,FOSTAIR 200micrograms/6micrograms inhaler
+c6A4.,FOSTAIR NEXTHALER 200micrograms/6micrograms powder inhaler
+c6Aw.,BECLOMET DIPROP+FORMOTERL FUMARATE DIHYD 200mcg/6mcg pdr inh
+c6Ax.,BECLOMET DIPROP+FORMOTERL FUMARATE DIHYD 200mcg/6mcg inhaler
+c6Ay.,BECLOMET DIPROP+FORMOTERL FUMARATE DIHYD 100mcg/6mcg pdr inh
+c6Az.,BECLOMETASONE DIPROPIONATE+FORMETEROL FUMARATE DIHYDRATE 100micrograms/6micrograms inhaler
+c6Az.,BECLOMETASONE DIPROPIONATE+FORMOTEROL FUMARATE DIHYDRATE 100micrograms/6micrograms inhaler
+c6B..,FLUTICASONE+VILANTEROL
+c6B1.,RELVAR ELLIPTA 184micrograms/22micrograms inhaler
+c6B2.,FLUTICASONE FUROATE+VILANTEROL 184mcg/22mcg dry pdr inhaler
+c6B3.,RELVAR ELLIPTA 92micrograms/22micrograms inhaler
+c6B4.,FLUTICASONE FUROATE+VILANTEROL 92mcg/22mcg dry pdr inhaler
+fe6..,PREDNISOLONE [ENDOCRINE]
+fe61.,PREDNISOLONE 1mg tablets
+fe62.,PREDNISOLONE 5mg tablets
+fe64.,*DELTA-PHORICOL 5mg tablets
+fe65.,DELTACORTRIL ENTERIC 2.5mg tablets
+fe66.,DELTACORTRIL ENTERIC 5mg tablets
+fe67.,*DELTALONE 1mg tablets
+fe68.,*DELTALONE 5mg tablets
+fe69.,*DELTASTAB 1mg tablets
+fe6a.,*DELTASTAB 5mg tablets
+fe6c.,*PRECORTISYL 1mg tablets
+fe6d.,*PRECORTISYL 5mg tablets
+fe6e.,PRECORTISYL FORTE 25mg tablets
+fe6f.,*PREDNESOL 5mg tablets
+fe6g.,*SINTISONE 5mg tablets
+fe6h.,PREDNISOLONE 2.5mg e/c tablets
+fe6i.,PREDNISOLONE 5mg e/c tablets
+fe6j.,PREDNISOLONE 5mg soluble tablets
+fe6k.,PREDNISOLONE 50mg tablets
+fe6l.,DILACORT 5mg gastro-resistant tablets
+fe6m.,DILACORT 2.5mg gastro-resistant tablets
+fe6n.,PEVANTI 2.5mg tablets
+fe6o.,PEVANTI 25mg tablets
+fe6p.,PEVANTI 5mg tablets
+fe6q.,PEVANTI 10mg tablets
+fe6r.,PEVANTI 20mg tablets
+fe6s.,PREDNISOLONE 20mg tablets
+fe6t.,PREDNISOLONE 10mg tablets
+fe6v.,PREDNISOLONE 2.5mg tablets
+fe6v.,*PREDNISOLONE 2.5mg tablets
+fe6w.,*PREDNISOLONE 2.5mg tablets
+fe6z.,PREDNISOLONE 25mg tablets
+fe7..,PREDNISONE
+fe71.,*PREDNISONE 1mg tablets
+fe72.,*PREDNISONE 5mg tablets
+fe73.,*DECORTISYL 5mg tablets
+fe74.,*ECONOSONE 1mg tablets
+fe75.,*ECONOSONE 5mg tablets
+fe77.,LODOTRA 2mg m/r tablets
+fe78.,LODOTRA 5mg m/r tablets
+fe79.,LODOTRA 1mg m/r tablets
+fe7x.,PREDNISONE 5mg m/r tablets
+fe7y.,PREDNISONE 2mg m/r tablets
+fe7z.,PREDNISONE 1mg m/r tablets
