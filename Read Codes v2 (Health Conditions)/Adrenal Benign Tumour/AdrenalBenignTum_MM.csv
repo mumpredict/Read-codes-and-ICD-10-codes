@@ -1,0 +1,14 @@
+Code,Description,MedicalFrequency,AHDFrequency
+B540.11,Phaeochromocytoma,995,8
+B922.00,Neoplasm of uncertain behaviour of adrenal gland,103,0
+BB5h000,[M]Adrenal cortical adenoma NOS,152,0
+BB5h100,[M]Adrenal cortical carcinoma,9,0
+BB5h.00,[M]Adrenal cortical tumours,181,2
+B8yy100,Carcinoma in situ of adrenal gland,63,3
+BB5hz00,[M]Adrenal cortical tumours NOS,21,0
+B7H0000,Benign phaeochromocytoma,27,0
+B7H0.00,Benign neoplasm of adrenal gland,411,0
+BB5h500,"[M]Adrenal cortical adenoma, glomerulosa cell type",1,0
+BB5h600,"[M]Adrenal cortical adenoma, mixed cell type",2,0
+BB5h300,"[M]Adrenal cortical adenoma, heavily pigmented variant",1,0
+BB5h400,"[M]Adrenal cortical adenoma, clear cell type",1,0
