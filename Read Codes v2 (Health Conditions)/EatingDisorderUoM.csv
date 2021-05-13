@@ -1,0 +1,26 @@
+code,description
+1467,H/O: anorexia nervosa
+1FF..00,Binge eating
+8HTN.00,Referral to eating disorders clinic
+9Nk9.00,Seen in eating disorder clinic
+E264200,Cyclical vomiting - psychogenic
+E271.00,Anorexia nervosa
+E275.00,Other and unspecified non-organic eating disorders
+E275000,Unspecified non-organic eating disorder
+E275100,Bulimia (non-organic overeating)
+E275111,Compulsive eating disorder
+E275y00,Other specified non-organic eating disorder
+E275z00,Non-organic eating disorder NOS
+Eu50.00,[X]Eating disorders
+Eu50000,[X]Anorexia nervosa
+Eu50100,[X]Atypical anorexia nervosa
+Eu50200,[X]Bulimia nervosa
+Eu50211,[X]Bulimia NOS
+Eu50212,[X]Hyperorexia nervosa
+Eu50300,[X]Atypical bulimia nervosa
+Eu50y00,[X]Other eating disorders
+Eu50y11,[X]Pica in adults
+Eu50z00,[X]Eating disorder; unspecified
+R030.00,[D]Anorexia
+R030z00,[D]Anorexia NOS
+R036011,[D]Bulimia NOS
