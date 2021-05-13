@@ -1,0 +1,489 @@
+DRUG_CODE_ID,DESCRIPTION,BNF1,BNF2,BNF3,ATC,DATABASE
+46912,Pizotifen 1.5mg tablets (Teva UK Ltd) Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+10130,Imigran Radis 50mg tablets (GlaxoSmithKline UK Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+7064,Depakote 250mg gastro-resistant tablets (Sanofi) Valproate semisodium 250mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRDGold
+46722,Sumatriptan 6mg/0.5ml solution for injection syringe refill Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+55139,Amitriptyline 25mg tablets (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+5478,Propranolol 10mg/5ml oral solution sugar free Propranolol hydrochloride 2mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+5997,Convulex 150mg gastro-resistant capsules (Pfizer Ltd) Valproic acid 150mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRDGold
+58491,Propranolol 40mg tablets (Alliance Healthcare (Distribution) Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+61630,Topiramate 100mg tablets (Teva UK Ltd) Topiramate 100mg Tablet Oral,4070402,4080100,,,CPRDGold
+34378,Propranolol 10mg tablets (A A H Pharmaceuticals Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+70070,Sumatriptan 50mg tablets (Alliance Healthcare (Distribution) Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+892,Paramax tablets (Sanofi) Metoclopramide hydrochloride/Paracetamol 5mg + 500mg Tablet Oral,4070401,,,,CPRDGold
+5053,Methysergide 1mg tablets Methysergide maleate 1mg Tablet Oral,4070402,,,,CPRDGold
+64773,Topiramate 30mg/5ml oral solution Topiramate 6mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+17180,Metoclopramide with aspirin 5mg + 450mg Effervescent tablet Citric Acid/Metoclopramide Hydrochloride/Aspirin/Sodium Bicarbonate 5mg + 450mg Effervescent Tablet Oral,4065500,4070401,,,CPRDGold
+75047,Topiramate 12.5mg/5ml oral solution Topiramate 2.5mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+6718,Zolmitriptan 5mg orodispersible tablets sugar free Zolmitriptan 5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+79826,Amitriptyline 10mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+61835,Amitriptyline 10mg tablets (DE Pharmaceuticals) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+55416,Propranolol 40mg tablets (Almus Pharmaceuticals Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+5682,Zomig Rapimelt 2.5mg orodispersible tablets (Grunenthal Ltd) Zolmitriptan 2.5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+64160,Propranolol 5mg/5ml oral solution sugar free (AM Distributions (Yorkshire) Ltd) Propranolol hydrochloride 1mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+3006,Dihydergot 1mg/ml Injection (Novartis Pharmaceuticals UK Ltd) Dihydroergotamine 1mg/ml Injection ,4070401,,,,CPRDGold
+72807,Clonidine 15micrograms/5ml oral solution Clonidine hydrochloride 3microgram/1ml Oral solution Oral,2050200,4070402,6040101,,CPRDGold
+65987,Amitriptyline 25mg tablets (Crescent Pharma Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+24996,Codeine phosphate 8mg with paracetamol 500mg with buclizine 6.25mg tablets Buclizine Hydrochloride/Codeine Phosphate/Paracetamol 8mg+500mg+6.25mg Tablets Oral,3040102,4070401,,,CPRDGold
+72349,Sumatriptan 50mg tablets (Accord Healthcare Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+6137,Zolmitriptan 5mg/0.1ml nasal spray unit dose Zolmitriptan 50mg/1ml Spray Nasal,4070401,,,,CPRDGold
+75312,Bedranol 80mg tablets (Ennogen Pharma Ltd) Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+40167,Metoprolol 100mg tablets (IVAX Pharmaceuticals UK Ltd) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+3721,Sanomigran 500microgram tablets (Novartis Pharmaceuticals UK Ltd) Pizotifen hydrogen malate 500microgram Tablet Oral,4070402,,,,CPRDGold
+27856,Midrid (rpr) Capsule (Rhone-Poulenc Rorer Ltd) Paracetamol/Isometheptene mucate 325mg + 65mg Capsule Oral,4070100,4070401,,,CPRDGold
+58297,Propranolol 10mg tablets (Kent Pharmaceuticals Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+76546,Imigran 10mg nasal spray (DE Pharmaceuticals) Sumatriptan 100mg/1ml Spray Nasal,4070401,,,,CPRDGold
+45877,Beta-Prograne 160mg modified-release capsules (Teva UK Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+18886,Convulex 500mg gastro-resistant capsules (Pfizer Ltd) Valproic acid 500mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRDGold
+54245,Topiramate 25mg capsules (A A H Pharmaceuticals Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+60136,Clonidine 100micrograms/5ml oral solution Clonidine hydrochloride 20microgram/1ml Oral solution Oral,2050200,4070402,6040101,,CPRDGold
+77866,Topiramate 25mg capsules (Alliance Healthcare (Distribution) Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+75207,Clonidine 50micrograms/5ml oral solution sugar free Clonidine hydrochloride 10microgram/1ml Oral solution Oral,4070402,6040101,,,CPRDGold
+68824,Zolmitriptan 2.5mg tablets (Actavis UK Ltd) Zolmitriptan 2.5mg Tablet Oral,4070401,,,,CPRDGold
+2444,Lingraine 2mg Sublingual tablet (Sanofi-Synthelabo Ltd) Ergotamine Tartrate 2mg Sublingual Tablet Sublingual,4070401,,,,CPRDGold
+1048,Inderal 80mg tablets (AstraZeneca UK Ltd) Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+34783,Propranolol 10mg tablets (Actavis UK Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+61574,Naramig 2.5mg tablets (DE Pharmaceuticals) Naratriptan hydrochloride 2.5mg Tablet Oral,4070401,,,,CPRDGold
+34094,Metoprolol 50mg tablets (A A H Pharmaceuticals Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+42078,Amitriptyline 25mg tablets (Almus Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+48682,Propranolol 50mg/5ml oral solution sugar free Propranolol hydrochloride 10mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+5860,Maxalt Melt 10mg oral lyophilisates (Merck Sharp & Dohme Ltd) Rizatriptan benzoate 10mg Oral lyophilisate Oral,4070401,,,,CPRDGold
+60040,Generic Migraleve Pink tablets Buclizine hydrochloride/Paracetamol/Codeine phosphate 6.25mg + 500mg + 8mg Tablet Oral,4070200,4070401,,,CPRDGold
+46770,Sumatriptan 6mg/0.5ml solution for injection pre-filled disposable devices Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+5874,Topiramate 25mg capsules Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+3167,Propranolol 160mg tablets Propranolol hydrochloride 160mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+60355,Amitriptyline 25mg tablets (Phoenix Healthcare Distribution Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+70991,Amitriptyline 10mg tablets (Arrow Generics Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+15159,Tolfenamic acid 200mg Capsule Tolfenamic Acid 200mg Capsule Oral,4070401,10010100,,,CPRDGold
+5830,Topiramate 50mg capsules Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+12037,Betim 10mg Tablet (ICN Pharmaceuticals France S.A.) Timolol maleate 10mg Tablet Oral,2040000,4070402,,,CPRDGold
+33624,Amitriptyline 50mg tablets (Teva UK Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+53448,Sumatriptan 50mg tablets (Pfizer Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+57624,Imigran Subject 6mg/0.5ml solution for injection syringe refill pack (Dowelhurst Ltd) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+1616,Migraleve Pink tablets (McNeil Products Ltd) Buclizine hydrochloride/Paracetamol/Codeine phosphate 6.25mg + 500mg + 8mg Tablet Oral,4070200,4070401,,,CPRDGold
+64330,Amitriptyline 50mg tablets (Almus Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+45578,Clonidine 25microgram tablets (A A H Pharmaceuticals Ltd) Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+71173,Propranolol 80mg modified-release capsules (Mawdsley-Brooks & Company Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+62016,Naratriptan 2.5mg tablets (A A H Pharmaceuticals Ltd) Naratriptan hydrochloride 2.5mg Tablet Oral,4070401,,,,CPRDGold
+60432,Topiramate 10mg/5ml oral solution Topiramate 2mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+2934,Zolmitriptan 2.5mg tablets Zolmitriptan 2.5mg Tablet Oral,4070401,,,,CPRDGold
+47760,Sumatriptan 6mg/0.5ml solution for injection pre-filled pens (Sun Pharmaceutical Industries Europe B.V.) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+62198,Topiramate 50mg capsules (A A H Pharmaceuticals Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+56026,Pizotifen 1.5mg tablets (Almus Pharmaceuticals Ltd) Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+70116,Metoprolol 50mg/5ml oral solution Metoprolol tartrate 10mg/1ml Oral solution Oral,2040000,4070402,,,CPRDGold
+53780,Topiramate 25mg tablets (Sandoz Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRDGold
+36576,Propranolol 10mg tablets (Mylan) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+14994,Clotam Rapid 200mg tablets (Galen Ltd) Tolfenamic acid 200mg Tablet Oral,4070401,,,,CPRDGold
+76952,Amitriptyline 5mg/5ml oral suspension Amitriptyline hydrochloride 1mg/1ml Oral suspension Oral,4030100,4070300,4070402,,CPRDGold
+3474,Betaloc-SA 200mg tablets (AstraZeneca UK Ltd) Metoprolol tartrate 200mg Modified-release tablet Oral,2040000,4070402,,,CPRDGold
+79622,Propranolol 40mg tablets (DE Pharmaceuticals) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+65435,Propranolol 10mg tablets (Waymade Healthcare Plc) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+1522,Imigran 100mg tablets (GlaxoSmithKline UK Ltd) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+79401,Amitriptyline 100mg/5ml oral solution Amitriptyline hydrochloride 20mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+1773,Sanomigran 1.5mg tablets (Novartis Pharmaceuticals UK Ltd) Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+76252,Propranolol 160mg modified-release capsules (Teva UK Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+4690,Amitriptyline 50mg/5ml oral solution sugar free Amitriptyline hydrochloride 10mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+58324,Rizatriptan 10mg orodispersible tablets sugar free Rizatriptan benzoate 10mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+76839,Amitriptyline 10mg tablets (Genesis Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+72746,Pizotifen 500micrograms/5ml oral suspension Pizotifen hydrogen malate 100microgram/1ml Oral suspension Oral,4070402,,,,CPRDGold
+71919,Zolmitriptan 2.5mg orodispersible tablets sugar free (Teva UK Ltd) Zolmitriptan 2.5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+60156,Topiramate 25mg capsules (Actavis UK Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+68169,Sumatriptan 6mg/0.5ml solution for injection pre-filled pens (Alliance Healthcare (Distribution) Ltd) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+58189,Sumatriptan 50mg tablets (Teva UK Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+20082,Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd) Metoprolol tartrate 200mg Modified-release tablet Oral,2040000,4070402,,,CPRDGold
+5617,Convulex 300mg gastro-resistant capsules (Pfizer Ltd) Valproic acid 300mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRDGold
+59051,Topiramate 50mg tablets (Accord Healthcare Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRDGold
+12778,Metoclopramide with paracetamol 5mg + 500mg Tablet Metoclopramide Hydrochloride/Paracetamol 5mg + 500mg Tablet Oral,4065500,4070401,,,CPRDGold
+5367,Almotriptan 12.5mg tablets Almotriptan hydrogen malate 12.5mg Tablet Oral,4070401,,,,CPRDGold
+79427,Half Inderal LA 80mg capsules (Necessity Supplies Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+47012,Imigran Subject 6mg/0.5ml solution for injection syringe refill pack (GlaxoSmithKline UK Ltd) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+34208,Propranolol SR 160mg Modified-release capsule (C P Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+24141,Amitriptyline 10mg tablets (Actavis UK Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+76316,Rizatriptan 10mg orodispersible tablets sugar free (Actavis UK Ltd) Rizatriptan benzoate 10mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+24134,Amitriptyline 25mg tablets (Kent Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+36603,Propranolol SR 160mg Modified-release capsule (Hillcross Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+24147,Amitriptyline 25mg tablets (Teva UK Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+73375,Topiramate 30mg/5ml oral suspension Topiramate 6mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+45297,Propranolol 40mg tablets (IVAX Pharmaceuticals UK Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+41716,Pizotifen 1.5mg Tablet (Neo Laboratories Ltd) Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+2138,Sumatriptan 50mg tablets Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+79030,Propranolol 80mg tablets (Actavis UK Ltd) Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+77497,Amitriptyline 75mg/5ml oral solution Amitriptyline hydrochloride 15mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+57486,Sumatriptan 50mg tablets (Dexcel-Pharma Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+62122,Sumatriptan 100mg tablets (A A H Pharmaceuticals Ltd) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+13890,Topamax 200mg tablets (Janssen-Cilag Ltd) Topiramate 200mg Tablet Oral,4070402,4080100,,,CPRDGold
+60694,Aspirin 25mg/5ml oral solution Aspirin 5mg/1ml Oral solution Oral,2090000,4070100,4070401,,CPRDGold
+34214,Propranolol 160mg tablets (Actavis UK Ltd) Propranolol hydrochloride 160mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+70681,Propranolol 3mg/5ml oral suspension Propranolol hydrochloride 600microgram/1ml Oral suspension Oral,2040000,4070402,4090300,,CPRDGold
+65258,Sumatriptan 50mg tablets (Actavis UK Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+60210,Sumatriptan 50mg tablets (Almus Pharmaceuticals Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+64000,Amitriptyline 10mg/5ml oral solution sugar free Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+56583,Sumatriptan 100mg tablets (Almus Pharmaceuticals Ltd) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+34401,Amitriptyline 10mg tablets (Wockhardt UK Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+33602,Slo-Pro 160mg capsules (Mylan) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+3386,Migravess forte 5mg+450mg Effervescent tablet (Bayer Plc) Citric Acid/Metoclopramide Hydrochloride/Aspirin/Sodium Bicarbonate 5mg+450mg Effervescent Tablet Oral,4065500,4070401,,,CPRDGold
+12114,Periactin 2mg/5ml Oral solution (Merck Sharp & Dohme Ltd) Cyproheptadine Hydrochloride 2mg/5ml Oral Solution Oral,3040102,4070402,,,CPRDGold
+41555,Propranolol 40mg tablets (A A H Pharmaceuticals Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+48664,Sumatriptan 6mg/0.5ml solution for injection pre-filled pens (A A H Pharmaceuticals Ltd) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+8071,Betaloc 50mg tablets (AstraZeneca UK Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+51447,Metoprolol 12.5mg/5ml oral suspension Metoprolol tartrate 2.5mg/1ml Oral suspension Oral,2040000,4070402,,,CPRDGold
+24152,Amitriptyline 10mg tablets (Teva UK Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+51409,Zomig 5mg/0.1ml nasal spray 0.1ml unit dose (Waymade Healthcare Plc) Zolmitriptan 50mg/1ml Spray Nasal,4070401,,,,CPRDGold
+58137,Topiramate 100mg/5ml oral solution Topiramate 20mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+6090,Naramig 2.5mg tablets (GlaxoSmithKline UK Ltd) Naratriptan hydrochloride 2.5mg Tablet Oral,4070401,,,,CPRDGold
+34867,Propranolol 80mg Capsule (IVAX Pharmaceuticals UK Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+78628,Sumatriptan 50mg tablets (Dr Reddy's Laboratories (UK) Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+4453,Sanomigran 0.25mg/5ml elixir (Novartis Pharmaceuticals UK Ltd) Pizotifen hydrogen malate 50microgram/1ml Oral solution Oral,4070402,,,,CPRDGold
+297,Propranolol 10mg tablets Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+40241,Propranolol LA 160mg Capsule (Approved Prescription Services Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+61770,Topiramate 50mg capsules (Teva UK Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+80489,Rizatriptan 5mg tablets (A A H Pharmaceuticals Ltd) Rizatriptan benzoate 5mg Tablet Oral,4070401,,,,CPRDGold
+56173,Half Beta-Prograne 80mg modified-release capsules (Actavis UK Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+64284,Dixarit 25microgram tablets (Lexon (UK) Ltd) Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+26323,Dihydroergotamine 1mg/ml injection Dihydroergotamine 1mg/ml Injection ,4070401,,,,CPRDGold
+67849,Pizotifen 250micrograms/5ml oral suspension Pizotifen hydrogen malate 50microgram/1ml Oral suspension Oral,4070402,,,,CPRDGold
+80033,Topamax 15mg sprinkle capsules (Waymade Healthcare Plc) Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRDGold
+65879,Amitriptyline 10mg tablets (Sigma Pharmaceuticals Plc) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+28128,Propranolol 80mg Modified-release capsule (Actavis UK Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+10099,Paracetamol 500mg with codeine phosphate 8mg & buclizine 6.25mg Buclizine Hydrochloride/Codeine Phosphate/Paracetamol 500mg+8mg+6.25mg Tablets Oral,3040102,4070401,,,CPRDGold
+1050,Inderal 40mg tablets (AstraZeneca UK Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+55090,Sumatriptan 100mg tablets (Arrow Generics Ltd) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+33376,Probeta LA 160mg Capsule (Trinity Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+72214,Topiramate 50mg capsules (Phoenix Healthcare Distribution Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+13864,Migranal 4mg/ml Nasal spray suspension (Novartis Pharmaceuticals UK Ltd) Dihydroergotamine 4mg/ml Nasal Spray Suspension Nasal,4070401,,,,CPRDGold
+1448,Propranolol 160mg modified-release capsules Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+66549,Zolmitriptan 5mg orodispersible tablets sugar free (Zentiva) Zolmitriptan 5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+59637,Maxalt Melt 10mg oral lyophilisates (Mawdsley-Brooks & Company Ltd) Rizatriptan benzoate 10mg Oral lyophilisate Oral,4070401,,,,CPRDGold
+55949,Propranolol 40mg/5ml oral solution Propranolol hydrochloride 8mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+74828,Imigran Subject 6mg/0.5ml solution for injection pre-filled syringes with device (Waymade Healthcare Plc) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+15851,Topamax 100mg tablets (Janssen-Cilag Ltd) Topiramate 100mg Tablet Oral,4070402,4080100,,,CPRDGold
+11555,Eletriptan 20mg tablets Eletriptan hydrobromide 20mg Tablet Oral,4070401,,,,CPRDGold
+75289,Propranolol 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Propranolol hydrochloride 1mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+7073,Topiramate 50mg tablets Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRDGold
+63981,Zolmitriptan 2.5mg tablets (Teva UK Ltd) Zolmitriptan 2.5mg Tablet Oral,4070401,,,,CPRDGold
+80244,Propranolol 40mg/5ml oral solution sugar free (Ennogen Healthcare Ltd) Propranolol hydrochloride 8mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+70220,Rizatriptan 10mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd) Rizatriptan benzoate 10mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+14808,Bedranol SR 80mg capsules (Sandoz Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+23326,Betadur cr 160mg Modified-release capsule (Monmouth Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+64551,Sumatriptan 50mg tablets (Sandoz Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+59597,Propranolol 160mg modified-release capsules (A A H Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+9759,Depakote 500mg gastro-resistant tablets (Sanofi) Valproate semisodium 500mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRDGold
+46721,Sumatriptan 6mg/0.5ml solution for injection pre-filled syringes with device Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+71150,Propranolol 5mg/5ml oral solution Propranolol hydrochloride 1mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+12821,Topamax 15mg sprinkle capsules (Janssen-Cilag Ltd) Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRDGold
+50088,Imigran 10mg nasal spray (Lexon (UK) Ltd) Sumatriptan 100mg/1ml Spray Nasal,4070401,,,,CPRDGold
+11793,Metoprolol 50mg/5ml oral suspension Metoprolol tartrate 10mg/1ml Oral suspension Oral,2040000,4070402,,,CPRDGold
+80597,Syonell 250mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd) Valproate semisodium 250mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRDGold
+9941,Migard 2.5mg tablets (A. Menarini Farmaceutica Internazionale SRL) Frovatriptan succinate monohydrate 2.5mg Tablet Oral,4070401,,,,CPRDGold
+26255,Lopranol la 160mg Capsule (Opus Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+338,Clonidine 25microgram tablets Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+28996,Bedranol SR 160mg capsules (Sandoz Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+67521,Aspirin 15mg/5ml oral suspension Aspirin 3mg/1ml Oral suspension Oral,2090000,4070100,4070401,,CPRDGold
+9676,Maxalt 10mg tablets (Merck Sharp & Dohme Ltd) Rizatriptan benzoate 10mg Tablet Oral,4070401,,,,CPRDGold
+6312,Amitriptyline 25mg/5ml oral solution sugar free Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+80454,Topiramate 50mg tablets (A A H Pharmaceuticals Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRDGold
+71042,Amitriptyline 25mg tablets (Arrow Generics Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+5034,Ergotamine tartrate with cyclizine and caffeine tablets Caffeine/Cyclizine Hydrochloride/Ergotamine Tartrate  Tablets Oral,3040103,4070401,,,CPRDGold
+78221,Amitriptyline 50mg tablets (DE Pharmaceuticals) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+56892,Sumatriptan 50mg tablets (Milpharm Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+60089,Clonidine 25microgram tablets (Waymade Healthcare Plc) Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+59161,Amitriptyline 10mg tablets (Waymade Healthcare Plc) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+61256,Clonidine 5micrograms/5ml oral suspension Clonidine hydrochloride 1microgram/1ml Oral suspension Oral,2050200,4070402,6040101,,CPRDGold
+73653,Propranolol 80mg tablets (Ranbaxy (UK) Ltd) Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+70371,Zolmitriptan 2.5mg orodispersible tablets sugar free (Alliance Healthcare (Distribution) Ltd) Zolmitriptan 2.5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+78591,Rizatriptan 10mg tablets (A A H Pharmaceuticals Ltd) Rizatriptan benzoate 10mg Tablet Oral,4070401,,,,CPRDGold
+3514,Paracetamol 500mg / Metoclopramide 5mg effervescent powder sachets sugar free Paracetamol/Metoclopramide hydrochloride 500mg + 5mg Effervescent powder Oral,4070401,,,,CPRDGold
+7852,Blocadren 10mg Tablet (Merck Sharp & Dohme Ltd) Timolol maleate 10mg Tablet Oral,2040000,4070402,,,CPRDGold
+74096,Aspirin 50mg/5ml oral suspension Aspirin 10mg/1ml Oral suspension Oral,2090000,4070100,4070401,,CPRDGold
+739,Metoprolol 50mg tablets Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+45765,Syprol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Propranolol hydrochloride 8mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+3726,Metoclopramide with aspirin 5mg + 325mg Effervescent tablet Citric Acid/Metoclopramide Hydrochloride/Aspirin/Sodium Bicarbonate 5mg + 325mg Effervescent Tablet Oral,4065500,4070401,,,CPRDGold
+7853,Timolol 10mg tablets Timolol maleate 10mg Tablet Oral,2040000,4070402,,,CPRDGold
+46818,Amitriptyline 10mg/5ml oral suspension Amitriptyline hydrochloride 2mg/1ml Oral suspension Oral,4030100,4070300,4070402,,CPRDGold
+31214,Propranolol 80mg tablets (Mylan) Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+76531,Metoprolol 10mg/5ml oral suspension Metoprolol tartrate 2mg/1ml Oral suspension Oral,2040000,4070402,,,CPRDGold
+80197,Bedranol 40mg tablets (Ennogen Pharma Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+8978,Propanix 160mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+57972,Amitriptyline 10mg tablets (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+51434,Imigran 50mg tablets (Lexon (UK) Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+1852,Sumatriptan 100mg tablets Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+70205,Sumatriptan 50mg tablets (Arrow Generics Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+70384,Topiramate 125mg/5ml oral suspension Topiramate 25mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+3087,Propranolol 40mg/5ml oral solution sugar free Propranolol hydrochloride 8mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+27700,Propranolol 40mg tablets (Actavis UK Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+45494,Propranolol 10mg tablets (Almus Pharmaceuticals Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+12869,Metoclopramide with paracetamol 5mg + 500mg Sachets Metoclopramide Hydrochloride/Paracetamol 5mg + 500mg Sachets Oral,4065500,4070401,,,CPRDGold
+77189,Topiramate 50mg tablets (Teva UK Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRDGold
+6363,Frovatriptan 2.5mg tablets Frovatriptan succinate monohydrate 2.5mg Tablet Oral,4070401,,,,CPRDGold
+24145,Amitriptyline 25mg tablets (Actavis UK Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+17547,Relpax 20mg tablets (Upjohn UK Ltd) Eletriptan hydrobromide 20mg Tablet Oral,4070401,,,,CPRDGold
+63971,Clonidine 25microgram tablets (Sigma Pharmaceuticals Plc) Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+59058,Topiramate 20mg/5ml oral suspension Topiramate 4mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+67127,Amitriptyline 25mg/5ml oral solution sugar free (DE Pharmaceuticals) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+48759,Zolmitriptan 5mg tablets Zolmitriptan 5mg Tablet Oral,4070401,,,,CPRDGold
+64583,Migraitan 50mg tablets (Bristol Laboratories Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+54807,Sumatriptan 50mg tablets (Bristol Laboratories Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+57107,Amitriptyline 10mg tablets (Phoenix Healthcare Distribution Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+18077,Topamax 50mg sprinkle capsules (Janssen-Cilag Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+52867,Amitriptyline 10mg tablets (Accord Healthcare Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+61710,Clonidine 25microgram tablets (Teva UK Ltd) Clonidine hydrochloride 25microgram Tablet Oral,2050200,4070402,6040101,,CPRDGold
+75406,Sumatriptan 100mg tablets (Milpharm Ltd) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+50138,Imigran Radis 50mg tablets (Waymade Healthcare Plc) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+78176,Tolfenamic acid 200mg tablets (A A H Pharmaceuticals Ltd) Tolfenamic acid 200mg Tablet Oral,4070401,,,,CPRDGold
+70404,Topiramate 25mg/5ml oral solution Topiramate 5mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+59820,Amitriptyline 50mg/5ml oral solution sugar free (Wockhardt UK Ltd) Amitriptyline hydrochloride 10mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+32162,Propranolol 80mg Modified-release capsule (Lagap) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+707,Propranolol 40mg tablets Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+55849,Propranolol 160mg tablets (Mylan) Propranolol hydrochloride 160mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+72237,Sumatriptan 50mg tablets (Mylan) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+7108,Topiramate 200mg tablets Topiramate 200mg Tablet Oral,4070402,4080100,,,CPRDGold
+1888,Amitriptyline 50mg tablets Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+77341,Topiramate 12mg/5ml oral suspension Topiramate 2.4mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+76847,Topiramate 50mg/5ml oral suspension sugar free Topiramate 10mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+7222,Tolfenamic acid 200mg tablets Tolfenamic acid 200mg Tablet Oral,4070401,,,,CPRDGold
+59072,Sumatriptan 100mg tablets (Dr Reddy's Laboratories (UK) Ltd) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+7210,Zolmitriptan 2.5mg orodispersible tablets sugar free Zolmitriptan 2.5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+78674,Topiramate 100mg/5ml oral suspension sugar free Topiramate 20mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+76180,Metoprolol 5mg/5ml oral solution Metoprolol tartrate 1mg/1ml Oral solution Oral,2040000,4070402,,,CPRDGold
+34634,Amitriptyline 50mg tablets (Accord Healthcare Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+34949,Propranolol 160mg Modified-release capsule (Actavis UK Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+80135,Amitriptyline 10mg tablets (NorthStar Healthcare Unlimited Company) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+6029,Zomig 5mg/0.1ml nasal spray 0.1ml unit dose (Grunenthal Ltd) Zolmitriptan 50mg/1ml Spray Nasal,4070401,,,,CPRDGold
+78817,Maxalt 10mg tablets (Waymade Healthcare Plc) Rizatriptan benzoate 10mg Tablet Oral,4070401,,,,CPRDGold
+795,Topiramate 15mg capsules Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRDGold
+17082,Syprol 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Propranolol hydrochloride 1mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+60878,Topiramate 15mg/5ml oral solution Topiramate 3mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+4864,Rizatriptan 5mg tablets Rizatriptan benzoate 5mg Tablet Oral,4070401,,,,CPRDGold
+4237,Zomig 2.5mg tablets (Grunenthal Ltd) Zolmitriptan 2.5mg Tablet Oral,4070401,,,,CPRDGold
+890,Paramax sachets (Sanofi) Paracetamol/Metoclopramide hydrochloride 500mg + 5mg Effervescent powder Oral,4070401,,,,CPRDGold
+9823,Topamax 25mg tablets (Janssen-Cilag Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRDGold
+83,Amitriptyline 10mg tablets Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+77395,Imigran 50mg tablets (DE Pharmaceuticals) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+535,Naratriptan 2.5mg tablets Naratriptan hydrochloride 2.5mg Tablet Oral,4070401,,,,CPRDGold
+53779,Topiramate 25mg capsules (Sandoz Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+76927,Amitriptyline 2.5mg/5ml oral solution Amitriptyline hydrochloride 500microgram/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+26895,Syprol 10mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Propranolol hydrochloride 2mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+769,Propranolol 80mg modified-release capsules Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+3155,Migravess 5mg+325mg Effervescent tablet (Bayer Plc) Citric Acid/Metoclopramide Hydrochloride/Aspirin/Sodium Bicarbonate 5mg+325mg Effervescent Tablet Oral,4065500,4070401,,,CPRDGold
+64647,Amitriptyline 25mg tablets (DE Pharmaceuticals) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+46801,Amitriptyline 10mg/5ml oral solution Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+57240,Metoprolol 50mg/5ml oral suspension (Special Order) Metoprolol tartrate 10mg/1ml Oral suspension Oral,2040000,4070402,,,CPRDGold
+15619,Half-betadur cr 80mg Capsule (Monmouth Pharmaceuticals Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+58828,Generic Migraleve tablets   Not applicable Route of administration not applicable,4070200,4070401,,,CPRDGold
+25367,Rapranol SR 80mg capsules (Ranbaxy (UK) Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+22776,Aspirin 500mg with Cyclizine 25mg effervescent tablets Cyclizine Hydrochloride/Aspirin 500mg+25mg Effervescent Tablet Oral,3040103,4070401,,,CPRDGold
+1527,Migraleve tablets (McNeil Products Ltd)   Not applicable Route of administration not applicable,4070200,4070401,,,CPRDGold
+42152,Syprol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd) Propranolol hydrochloride 10mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+63724,Metoprolol 100mg tablets (Waymade Healthcare Plc) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+67200,Clonidine 10micrograms/5ml oral solution Clonidine hydrochloride 2microgram/1ml Oral solution Oral,2050200,4070402,6040101,,CPRDGold
+46363,Half Beta-Prograne 80mg modified-release capsules (Teva UK Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+16262,Topamax 25mg sprinkle capsules (Janssen-Cilag Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+69510,Rizatriptan 10mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd) Rizatriptan benzoate 10mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+46754,Imigran Subject 6mg/0.5ml solution for injection pre-filled syringes with device (GlaxoSmithKline UK Ltd) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+37684,Sumatriptan 50mg tablets (A A H Pharmaceuticals Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+66670,Metoprolol 100mg tablets (Alliance Healthcare (Distribution) Ltd) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+79115,Propranolol 10mg/5ml oral solution Propranolol hydrochloride 2mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+15650,Valproic acid 300mg gastro-resistant capsules Valproic acid 300mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRDGold
+18614,Valproic acid 150mg gastro-resistant capsules Valproic acid 150mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRDGold
+58407,Propranolol 80mg tablets (Teva UK Ltd) Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+941,Pizotifen 500microgram tablets Pizotifen hydrogen malate 500microgram Tablet Oral,4070402,,,,CPRDGold
+45323,Pizotifen 500microgram tablets (Teva UK Ltd) Pizotifen hydrogen malate 500microgram Tablet Oral,4070402,,,,CPRDGold
+65986,Propranolol 10mg tablets (Alliance Healthcare (Distribution) Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+4718,Migraleve - 1 Tablet (Pfizer Consumer Healthcare Ltd) Buclizine Hydrochloride/Codeine Phosphate/Paracetamol  Tablet Oral,3040102,4070401,,,CPRDGold
+75916,Aspirin 100mg/5ml oral suspension Aspirin 20mg/1ml Oral suspension Oral,2090000,4070100,4070401,,CPRDGold
+75747,Topiramate 50mg capsules (Waymade Healthcare Plc) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+35281,Imigran Recovery 50mg tablets (Forest Laboratories UK Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+55649,Topiramate 15mg capsules (A A H Pharmaceuticals Ltd) Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRDGold
+80601,Syonell 500mg gastro-resistant tablets (Lupin Healthcare (UK) Ltd) Valproate semisodium 500mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRDGold
+9581,Isometheptene mucate with paracetamol 65mg+325mg Capsule Paracetamol/Isometheptene Mucate 65mg+325mg Capsule Oral,4070100,4070401,,,CPRDGold
+49863,Propranolol 5mg/5ml oral solution sugar free Propranolol hydrochloride 1mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+9367,Ergometrine tartrate 2mg sublingual tablet Ergotamine Tartrate 2mg Sublingual Tablets Sublingual,4070401,,,,CPRDGold
+63545,Topiramate 200mg tablets (Actavis UK Ltd) Topiramate 200mg Tablet Oral,4070402,4080100,,,CPRDGold
+63250,Topiramate 25mg tablets (Accord Healthcare Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRDGold
+30782,Pizotifen 1.5mg tablets (Actavis UK Ltd) Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+72831,Topiramate 100mg/5ml oral suspension Topiramate 20mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+66555,Propranolol 10mg tablets (Boston Healthcare Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+3344,Betaloc 100mg tablets (AstraZeneca UK Ltd) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+34430,Metoprolol 50mg tablets (Actavis UK Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+775,Pizotifen 1.5mg tablets Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+60565,Propranolol 40mg tablets (Ranbaxy (UK) Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+34274,Amitriptyline 50mg tablets (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+34182,Amitriptyline 50mg tablets (Kent Pharmaceuticals Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+63504,Topiramate 25mg tablets (Actavis UK Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRDGold
+34884,Propranolol 160mg Modified-release capsule (Sandoz Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+31776,Propranolol 40mg tablets (Mylan) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+55979,Metoprolol 25mg/5ml oral suspension Metoprolol tartrate 5mg/1ml Oral suspension Oral,2040000,4070402,,,CPRDGold
+67698,Topiramate 15mg capsules (DE Pharmaceuticals) Topiramate 15mg Capsule Oral,4070402,4080100,,,CPRDGold
+46614,Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+34731,Amitriptyline 10mg tablets (Kent Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+64141,Amitriptyline 5mg/5ml oral solution Amitriptyline hydrochloride 1mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+47907,Bedranol SR 160mg capsules (Almus Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+73765,Propranolol 10mg tablets (Ranbaxy (UK) Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+2311,Migril tablets (Wockhardt UK Ltd) Caffeine hydrate/Cyclizine hydrochloride/Ergotamine tartrate 100mg + 50mg + 2mg Tablet Oral,4070401,,,,CPRDGold
+58019,Topiramate 25mg tablets (Teva UK Ltd) Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRDGold
+72080,Pizotifen 1mg/5ml oral suspension Pizotifen hydrogen malate 200microgram/1ml Oral suspension Oral,4070402,,,,CPRDGold
+61840,Zolmitriptan 5mg orodispersible tablets sugar free (Teva UK Ltd) Zolmitriptan 5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+53586,Maxalt 10mg tablets (DE Pharmaceuticals) Rizatriptan benzoate 10mg Tablet Oral,4070401,,,,CPRDGold
+42405,Migraleve Ultra 50mg tablets (McNeil Products Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+75132,Imigran Subject 6mg/0.5ml solution for injection pre-filled syringes with device (DE Pharmaceuticals) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+20468,Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+25359,Rapranol SR 160mg capsules (Ranbaxy (UK) Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+10112,Imigran Radis 100mg tablets (GlaxoSmithKline UK Ltd) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+6305,Valproic acid 500mg gastro-resistant tablets Valproate semisodium 500mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRDGold
+13608,Topamax 50mg tablets (Janssen-Cilag Ltd) Topiramate 50mg Tablet Oral,4070402,4080100,,,CPRDGold
+51024,Zomig Rapimelt 2.5mg orodispersible tablets (Mawdsley-Brooks & Company Ltd) Zolmitriptan 2.5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+378,Ergotamine 1mg / Caffeine 100mg tablets Caffeine/Ergotamine tartrate 100mg + 1mg Tablet Oral,4070401,,,,CPRDGold
+34224,Amitriptyline 25mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+75880,Rizatriptan 5mg orodispersible tablets sugar free Rizatriptan benzoate 5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+34584,Metoprolol 50mg tablets (IVAX Pharmaceuticals UK Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+66579,Amitriptyline 25mg tablets (Mawdsley-Brooks & Company Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+60410,Amitriptyline 25mg/5ml oral solution sugar free (Wockhardt UK Ltd) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+69661,Propranolol 3mg/5ml oral solution Propranolol hydrochloride 600microgram/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+52555,Clonidine 50micrograms/5ml oral solution Clonidine hydrochloride 10microgram/1ml Oral solution Oral,2050200,4070402,6040101,,CPRDGold
+62629,Sumatriptan 100mg tablets (Waymade Healthcare Plc) Sumatriptan succinate 100mg Tablet Oral,4070401,,,,CPRDGold
+78364,Amitriptyline 25mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 5mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+33090,Amitriptyline 10mg tablets (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+57567,Propranolol 10mg/5ml oral suspension Propranolol hydrochloride 2mg/1ml Oral suspension Oral,2040000,4070402,4090300,,CPRDGold
+34804,Propranolol 10mg tablets (Teva UK Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+56025,Pizotifen 500microgram tablets (Almus Pharmaceuticals Ltd) Pizotifen hydrogen malate 500microgram Tablet Oral,4070402,,,,CPRDGold
+2446,Cafergot tablets (Alliance Pharmaceuticals Ltd) Caffeine/Ergotamine tartrate 100mg + 1mg Tablet Oral,4070401,,,,CPRDGold
+74929,Nadolol Oral solution Nadolol  Oral Solution ,2040000,4070402,,,CPRDGold
+26229,Beta-Prograne 160mg modified-release capsules (Tillomed Laboratories Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+34129,Amitriptyline 25mg tablets (Wockhardt UK Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+7773,Medihaler ergotamine 360microgram/inhalation Inhalation powder (3M Health Care Ltd) Ergotamine Tartrate 360microgram/inhalation Inhalation Powder Inhalation,4070401,,,,CPRDGold
+45343,Propranolol SR 80mg Modified-release capsule (C P Pharmaceuticals Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+54623,Beta-Prograne 160mg modified-release capsules (Actavis UK Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+940,Propranolol 80mg tablets Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+34925,Metoprolol 50mg tablets (Sandoz Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+39233,Propranolol 80mg modified-release capsules (Teva UK Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+72212,Topiramate 25mg capsules (DE Pharmaceuticals) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+77819,Aimovig 70mg/1ml solution for injection pre-filled pens (Novartis Pharmaceuticals UK Ltd) Erenumab 70mg/1ml Solution for injection Subcutaneous,4070402,,,,CPRDGold
+66294,Naratriptan 2.5mg tablets (Teva UK Ltd) Naratriptan hydrochloride 2.5mg Tablet Oral,4070401,,,,CPRDGold
+52751,Topiramate 5mg/5ml oral solution Topiramate 1mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+46971,Pizotifen 0.5mg Tablet (Neo Laboratories Ltd) Pizotifen hydrogen malate 500microgram Tablet Oral,4070402,,,,CPRDGold
+11237,Topiramate 25mg tablets Topiramate 25mg Tablet Oral,4070402,4080100,,,CPRDGold
+4994,Sumatriptan 20mg/0.1ml nasal spray unit dose Sumatriptan 200mg/1ml Spray Nasal,4070401,,,,CPRDGold
+72227,Dixarit 25microgram tablets (DE Pharmaceuticals) Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+72222,Propranolol 80mg modified-release capsules (DE Pharmaceuticals) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+34854,Metoprolol 100mg tablets (Actavis UK Ltd) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+76098,Pizotifen 250micrograms/5ml oral solution Pizotifen hydrogen malate 50microgram/1ml Oral solution Oral,4070402,,,,CPRDGold
+14815,Zomig Rapimelt 5mg orodispersible tablets (Grunenthal Ltd) Zolmitriptan 5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+5848,Valproic acid 250mg gastro-resistant tablets Valproate semisodium 250mg Gastro-resistant tablet Oral,4020300,4070402,,,CPRDGold
+70680,Propranolol 6mg/5ml oral suspension Propranolol hydrochloride 1.2mg/1ml Oral suspension Oral,2040000,4070402,4090300,,CPRDGold
+69222,Zolmitriptan 2.5mg orodispersible tablets sugar free (Actavis UK Ltd) Zolmitriptan 2.5mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+14910,Eletriptan 40mg tablets Eletriptan hydrobromide 40mg Tablet Oral,4070401,,,,CPRDGold
+61727,Propranolol 10mg tablets (Accord Healthcare Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+33702,Pizotifen 500microgram tablets (A A H Pharmaceuticals Ltd) Pizotifen hydrogen malate 500microgram Tablet Oral,4070402,,,,CPRDGold
+29610,Betim 10mg tablets (Meda Pharmaceuticals Ltd) Timolol maleate 10mg Tablet Oral,2040000,4070402,,,CPRDGold
+70300,Amitriptyline 10mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd) Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+1614,Imigran 50mg tablets (GlaxoSmithKline UK Ltd) Sumatriptan succinate 50mg Tablet Oral,4070401,,,,CPRDGold
+23587,Sloprolol 160mg Capsule (C P Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+52777,Propranolol 40mg tablets (Kent Pharmaceuticals Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+12039,Deseril 1mg tablets (Alliance Pharmaceuticals Ltd) Methysergide maleate 1mg Tablet Oral,4070402,,,,CPRDGold
+59727,Generic Migril tablets Caffeine hydrate/Cyclizine hydrochloride/Ergotamine tartrate 100mg + 50mg + 2mg Tablet Oral,4070401,,,,CPRDGold
+2306,Paracetamol 500mg / Metoclopramide 5mg tablets Metoclopramide hydrochloride/Paracetamol 5mg + 500mg Tablet Oral,4070401,,,,CPRDGold
+40270,Pizotifen 1.5mg tablets (A A H Pharmaceuticals Ltd) Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+60934,Propranolol 80mg modified-release capsules (Kent Pharmaceuticals Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+44719,Topiramate 25mg/5ml oral suspension Topiramate 5mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+80326,Aimovig 140mg/1ml solution for injection pre-filled pens (Novartis Pharmaceuticals UK Ltd) Erenumab 140mg/1ml Solution for injection Subcutaneous,4070402,,,,CPRDGold
+753,Metoprolol 100mg tablets Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+34092,Metoprolol 100mg tablets (Teva UK Ltd) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+59415,Propranolol 40mg tablets (Accord Healthcare Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+51839,Topamax 25mg sprinkle capsules (Mawdsley-Brooks & Company Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+77649,Half Inderal LA 80mg capsules (DE Pharmaceuticals) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+77591,Clonidine 12.5micrograms/5ml oral suspension Clonidine hydrochloride 2.5microgram/1ml Oral suspension Oral,2050200,4070402,6040101,,CPRDGold
+15770,Dihydroergotamine mesylate 4mg/ml nasal spray Dihydroergotamine 4mg/ml Nasal Spray Nasal,4070401,,,,CPRDGold
+22208,Half propanix la 80mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+34868,Propranolol 40mg tablets (Teva UK Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+70403,Topiramate 20mg/5ml oral solution Topiramate 4mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+33093,Clonidine 25microgram tablets (Sandoz Ltd) Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+46740,Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+5168,Rizatriptan 10mg oral lyophilisates sugar free Rizatriptan benzoate 10mg Oral lyophilisate Oral,4070401,,,,CPRDGold
+49,Amitriptyline 25mg tablets Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+46572,Topiramate 50mg/5ml oral suspension Topiramate 10mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+5140,Sumatriptan 6mg/syringe injection Sumatriptan Succinate 6mg/syringe Injection Subcutaneous Injection,4070401,4070403,,,CPRDGold
+47833,Bedranol SR 80mg capsules (Almus Pharmaceuticals Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+7129,Sumatriptan 10mg/0.1ml nasal spray unit dose Sumatriptan 100mg/1ml Spray Nasal,4070401,,,,CPRDGold
+35938,Propranolol 80mg modified-release capsules (A A H Pharmaceuticals Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+55797,Clonidine 25micrograms/5ml oral solution Clonidine hydrochloride 5microgram/1ml Oral solution Oral,2050200,4070402,6040101,,CPRDGold
+77340,Topiramate 12mg/5ml oral solution Topiramate 2.4mg/1ml Oral solution Oral,4070402,4080100,,,CPRDGold
+56764,Propranolol 40mg tablets (Waymade Healthcare Plc) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+34125,Metoprolol 100mg tablets (A A H Pharmaceuticals Ltd) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+20036,Clotam 200mg Capsule (Thames Laboratories Ltd) Tolfenamic Acid 200mg Capsule Oral,4070401,10010100,,,CPRDGold
+57342,Propranolol 40mg tablets (Phoenix Healthcare Distribution Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+16041,Relpax 40mg tablets (Upjohn UK Ltd) Eletriptan hydrobromide 40mg Tablet Oral,4070401,,,,CPRDGold
+77097,Sanomigran 1.5mg tablets (Mawdsley-Brooks & Company Ltd) Pizotifen hydrogen malate 1.5mg Tablet Oral,4070402,,,,CPRDGold
+68881,Metoprolol 12.5mg capsules Metoprolol tartrate 12.5mg Capsule Oral,2040000,4070402,,,CPRDGold
+26228,Propanix LA 160mg Modified-release capsule (Ashbourne Pharmaceuticals Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+34945,Propranolol 160mg Modified-release capsule (Lagap) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+72827,Topamax 50mg sprinkle capsules (Lexon (UK) Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+62306,Topiramate 25mg capsules (Teva UK Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+3005,Inderal LA 160mg capsules (AstraZeneca UK Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+52136,Bedranol sr 160mg Capsule (Lagap) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+54877,Amitriptyline 25mg tablets (Accord Healthcare Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+53142,Clonidine 50micrograms/5ml oral suspension Clonidine hydrochloride 10microgram/1ml Oral suspension Oral,2050200,4070402,6040101,,CPRDGold
+65227,Metoprolol 12.5mg/5ml oral solution Metoprolol tartrate 2.5mg/1ml Oral solution Oral,2040000,4070402,,,CPRDGold
+3371,Maxalt 5mg tablets (Merck Sharp & Dohme Ltd) Rizatriptan benzoate 5mg Tablet Oral,4070401,,,,CPRDGold
+72220,Propranolol 10mg/5ml oral solution sugar free (CST Pharma Ltd) Propranolol hydrochloride 2mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+57874,Topiramate 12.5mg/5ml oral suspension Topiramate 2.5mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+55491,Amitriptyline 10mg tablets (Almus Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+79074,Zolmitriptan 5mg tablets (Waymade Healthcare Plc) Zolmitriptan 5mg Tablet Oral,4070401,,,,CPRDGold
+63113,Topiramate 25mg capsules (Phoenix Healthcare Distribution Ltd) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+69712,Amitriptyline 50mg tablets (Sigma Pharmaceuticals Plc) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+33644,Propranolol 80mg tablets (A A H Pharmaceuticals Ltd) Propranolol hydrochloride 80mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+2630,Dixarit 25microgram tablets (Boehringer Ingelheim Ltd) Clonidine hydrochloride 25microgram Tablet Oral,4070402,6040101,,,CPRDGold
+1241,Imigran subject 6mg/syringe Subcutaneous injection (GlaxoSmithKline UK Ltd) Sumatriptan Succinate 6mg/syringe Subcutaneous Injection Subcutaneous Injection,4070401,4070403,,,CPRDGold
+51867,Imigran Subject 6mg/0.5ml solution for injection syringe refill pack (Lexon (UK) Ltd) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
+75278,Propranolol 5mg/5ml oral suspension Propranolol hydrochloride 1mg/1ml Oral suspension Oral,2040000,4070402,4090300,,CPRDGold
+52609,Inderal LA 160mg capsules (Sigma Pharmaceuticals Plc) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+32836,Metoprolol 50mg tablets (Mylan) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+2355,Pizotifen 250micrograms/5ml oral solution sugar free Pizotifen hydrogen malate 50microgram/1ml Oral solution Oral,4070402,,,,CPRDGold
+66572,Amitriptyline 25mg tablets (Sigma Pharmaceuticals Plc) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+17456,Metoclopramide with lysine acetylsalicylate 10mg + 900mg Oral solution Metoclopramide Hydrochloride/Aspirin Lysine 10mg + 900mg Oral Solution Oral,4065500,4070401,,,CPRDGold
+55228,Propranolol 40mg tablets (Boston Healthcare Ltd) Propranolol hydrochloride 40mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+77413,Inderal LA 160mg capsules (Waymade Healthcare Plc) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+34185,Propranolol LA 80mg Modified-release capsule (Approved Prescription Services Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+720,Imigran 10mg nasal spray (GlaxoSmithKline UK Ltd) Sumatriptan 100mg/1ml Spray Nasal,4070401,,,,CPRDGold
+74854,Metoprolol 25mg/5ml oral solution Metoprolol tartrate 5mg/1ml Oral solution Oral,2040000,4070402,,,CPRDGold
+57670,Topiramate 50mg capsules (Sandoz Ltd) Topiramate 50mg Capsule Oral,4070402,4080100,,,CPRDGold
+1006,Half Inderal LA 80mg capsules (AstraZeneca UK Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+68400,Propranolol 160mg tablets (DE Pharmaceuticals) Propranolol hydrochloride 160mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+10803,Cyproheptadine 2mg/5ml oral solution Cyproheptadine Hydrochloride 2mg/5ml Syrup Oral,3040102,4070402,,,CPRDGold
+74534,Clonidine 250micrograms/5ml oral suspension Clonidine hydrochloride 50microgram/1ml Oral suspension Oral,2050200,4070402,6040101,,CPRDGold
+34509,Metoprolol 100mg tablets (Mylan) Metoprolol tartrate 100mg Tablet Oral,2040000,4070402,,,CPRDGold
+34107,Amitriptyline 50mg tablets (Wockhardt UK Ltd) Amitriptyline hydrochloride 50mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+72207,Topiramate 25mg capsules (Sigma Pharmaceuticals Plc) Topiramate 25mg Capsule Oral,4070402,4080100,,,CPRDGold
+71098,Metoprolol 50mg tablets (Accord Healthcare Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+62711,Propranolol 80mg modified-release capsules (Waymade Healthcare Plc) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,4090300,,CPRDGold
+78943,Clonidine 50micrograms/5ml oral solution sugar free (A A H Pharmaceuticals Ltd) Clonidine hydrochloride 10microgram/1ml Oral solution Oral,2050200,4070402,6040101,,CPRDGold
+76633,Propranolol 10mg tablets (DE Pharmaceuticals) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+34407,Metoprolol 50mg tablets (Teva UK Ltd) Metoprolol tartrate 50mg Tablet Oral,2040000,4070402,,,CPRDGold
+2414,Inderal 10mg tablets (AstraZeneca UK Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+54297,Propranolol 50mg/5ml oral solution Propranolol hydrochloride 10mg/1ml Oral solution Oral,2040000,4070402,4090300,,CPRDGold
+34782,Amitriptyline 25mg tablets (A A H Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+4188,Imigran 20mg nasal spray (GlaxoSmithKline UK Ltd) Sumatriptan 200mg/1ml Spray Nasal,4070401,,,,CPRDGold
+34648,Pizotifen 500microgram tablets (Actavis UK Ltd) Pizotifen hydrogen malate 500microgram Tablet Oral,4070402,,,,CPRDGold
+75507,Propranolol 160mg Capsule (IVAX Pharmaceuticals UK Ltd) Propranolol hydrochloride 160mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+76311,Rizatriptan 10mg orodispersible tablets sugar free (Mylan) Rizatriptan benzoate 10mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+58090,Clonidine 75micrograms/5ml oral solution Clonidine hydrochloride 15microgram/1ml Oral solution Oral,2050200,4070402,6040101,,CPRDGold
+43525,Propranolol 10mg tablets (IVAX Pharmaceuticals UK Ltd) Propranolol hydrochloride 10mg Tablet Oral,2040000,4070402,4090300,,CPRDGold
+79766,Amitriptyline 25mg tablets (Genesis Pharmaceuticals Ltd) Amitriptyline hydrochloride 25mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+60693,Aspirin 15mg/5ml oral solution Aspirin 3mg/1ml Oral solution Oral,2090000,4070100,4070401,,CPRDGold
+6665,Paracetamol with codeine & buclizine tablet Buclizine Hydrochloride/Codeine Phosphate/Paracetamol  Tablets Oral,3040102,4070401,,,CPRDGold
+66578,Amitriptyline 10mg tablets (Mawdsley-Brooks & Company Ltd) Amitriptyline hydrochloride 10mg Tablet Oral,4030100,4070300,4070402,,CPRDGold
+48681,Maxalt Melt 10mg oral lyophilisates (Lexon (UK) Ltd) Rizatriptan benzoate 10mg Oral lyophilisate Oral,4070401,,,,CPRDGold
+51066,Maxalt Melt 10mg oral lyophilisates (DE Pharmaceuticals) Rizatriptan benzoate 10mg Oral lyophilisate Oral,4070401,,,,CPRDGold
+65808,Rizatriptan 10mg orodispersible tablets sugar free (Aspire Pharma Ltd) Rizatriptan benzoate 10mg Orodispersible tablet Oral,4070401,,,,CPRDGold
+9792,Almogran 12.5mg tablets (Almirall Ltd) Almotriptan hydrogen malate 12.5mg Tablet Oral,4070401,,,,CPRDGold
+78525,Imigran 20mg nasal spray (Lexon (UK) Ltd) Sumatriptan 200mg/1ml Spray Nasal,4070401,,,,CPRDGold
+7435,Ergotamine tartrate inhaler Ergotamine Tartrate  Aerosol Inhaler Inhalation,4070401,,,,CPRDGold
+34251,Amitriptyline 50mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd) Amitriptyline hydrochloride 10mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+72130,Clonidine 100micrograms/5ml oral suspension Clonidine hydrochloride 20microgram/1ml Oral suspension Oral,2050200,4070402,6040101,,CPRDGold
+76298,Amitriptyline 10mg/5ml oral solution sugar free (Wockhardt UK Ltd) Amitriptyline hydrochloride 2mg/1ml Oral solution Oral,4030100,4070300,4070402,,CPRDGold
+61198,Topiramate 15mg/5ml oral suspension Topiramate 3mg/1ml Oral suspension Oral,4070402,4080100,,,CPRDGold
+4536,Rizatriptan 10mg tablets Rizatriptan benzoate 10mg Tablet Oral,4070401,,,,CPRDGold
+6820,Topiramate 100mg tablets Topiramate 100mg Tablet Oral,4070402,4080100,,,CPRDGold
+28788,Half propatard la 80mg Modified-release capsule (Galen Ltd) Propranolol hydrochloride 80mg Modified-release capsule Oral,2040000,4070402,,,CPRDGold
+80447,Metoprolol 100mg/5ml oral solution Metoprolol tartrate 20mg/1ml Oral solution Oral,2040000,4070402,,,CPRDGold
+16021,Valproic acid 500mg gastro-resistant capsules Valproic acid 500mg Gastro-resistant capsule Oral,4070402,4080100,,,CPRDGold
+59405,Sumatriptan 6mg/0.5ml solution for injection pre-filled pens (Waymade Healthcare Plc) Sumatriptan succinate 12mg/1ml Solution for injection Subcutaneous,4070401,4070403,,,CPRDGold
