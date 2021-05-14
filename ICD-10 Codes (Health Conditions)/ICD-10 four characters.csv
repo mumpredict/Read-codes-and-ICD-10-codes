@@ -1,0 +1,341 @@
+Phenotype,MAIN_CONDITION
+Adrenal tumour,D44.1
+all other cancers,C88.0
+all other cancers,C88.2
+all other cancers,C22.1
+all other cancers,C75.1
+all other cancers,C75.2
+all other cancers,C75.3
+all other cancers,C75.4
+all other cancers,C75.5
+all other cancers,C22.0
+all other cancers,C22.2
+all other cancers,C22.3
+all other cancers,C22.4
+all other cancers,C22.7
+all other cancers,C22.9
+all other cancers,C26.0
+all other cancers,C26.1
+all other cancers,C26.8
+all other cancers,C26.9
+all other cancers,C30.0
+all other cancers,C30.1
+all other cancers,C38.0
+all other cancers,C38.1
+all other cancers,C38.2
+all other cancers,C38.3
+all other cancers,C38.4
+all other cancers,C38.8
+all other cancers,C39.0
+all other cancers,C39.8
+all other cancers,C39.9
+all other cancers,C75.0
+all other cancers,C75.8
+all other cancers,C75.9
+all other cancers,C88.3
+all other cancers,C88.4
+all other cancers,C88.7
+all other cancers,C88.9
+all other cancers,C79.7
+all other cancers,C79.5
+all other cancers,C78.4
+all other cancers,C78.5
+all other cancers,C79.3
+all other cancers,C79.4
+all other cancers,C78.7
+all other cancers,C78.0
+all other cancers,C78.1
+all other cancers,C78.3
+all other cancers,C78.8
+all other cancers,C79.0
+all other cancers,C79.1
+all other cancers,C79.2
+all other cancers,C79.6
+all other cancers,C79.8
+all other cancers,C79.9
+all other cancers,C78.6
+all other cancers,C78.2
+allergic rhinitis,J30.1
+allergic rhinitis,J30.2
+allergic rhinitis,J30.3
+allergic rhinitis,J30.4
+allergic rhinitis,J31.0
+anxiety,F43.1
+Bronchiectasis,Q33.4
+cardiomyopathy,I25.5
+cardiomyopathy,I42.3
+cardiomyopathy,I42.5
+cardiomyopathy,I42.7
+cardiomyopathy,I42.8
+cardiomyopathy,I42.9
+cardiomyopathy,I42.0
+cardiomyopathy,I42.6
+cardiomyopathy,I42.1
+cardiomyopathy,I42.2
+cataract,H26.0
+cataract,H26.2
+cataract,H26.4
+cataract,H26.8
+cataract,H26.9
+cataract,Q12.0
+Chronic back pain,M54.5
+Chronic kidney disease (CKD 3-5),N18.5
+Chronic kidney disease (CKD 3-5),T82.4
+Chronic kidney disease (CKD 3-5),Y60.2
+Chronic kidney disease (CKD 3-5),Y61.2
+Chronic kidney disease (CKD 3-5),Y84.1
+Chronic kidney disease (CKD 3-5),Z49.1
+Chronic kidney disease (CKD 3-5),Z49.2
+Chronic kidney disease (CKD 3-5),Z99.2
+Chronic kidney disease (CKD 3-5),N16.5
+Chronic kidney disease (CKD 3-5),T86.1
+Chronic kidney disease (CKD 3-5),Z94.0
+Chronic kidney disease (CKD 3-5),N18.3
+Chronic kidney disease (CKD 3-5),N18.4
+Chronic kidney disease (CKD 3-5),N18.7
+Chronic kidney disease (CKD 3-5),N18.8
+Chronic kidney disease (CKD 3-5),N18.9
+Chronic kidney disease (CKD 3-5),N18.6
+Chronic liver disease,K74.3
+Chronic liver disease,K75.4
+Chronic liver disease,K70.1
+Chronic liver disease,K70.2
+Chronic liver disease,K70.3
+Chronic liver disease,K71.7
+Chronic liver disease,K74.0
+Chronic liver disease,K74.1
+Chronic liver disease,K74.2
+Chronic liver disease,K74.4
+Chronic liver disease,K74.5
+Chronic liver disease,K74.6
+Chronic liver disease,B15.0
+Chronic liver disease,B16.0
+Chronic liver disease,B19.0
+Chronic liver disease,K70.4
+Chronic liver disease,K71.1
+Chronic liver disease,K76.2
+Chronic liver disease,K76.3
+Coeliac disease,K90.0
+congenital heart disease,Q25.0
+deafness,Z45.3
+deafness,Z46.1
+deafness,Z97.4
+diabetes mellitus,O242
+diabetes mellitus,G590
+diabetes mellitus,G632
+diabetes mellitus,H280
+diabetes mellitus,H360
+diabetes mellitus,M142
+diabetes mellitus,N083
+diabetes mellitus,O240
+diabetes mellitus,O241
+diabetes mellitus,O243
+Diabetic eye disease,H35.0
+Diabetic eye disease,H35.2
+Diabetic eye disease,E10.3
+Diabetic eye disease,E11.3
+Diabetic eye disease,E12.3
+Diabetic eye disease,E13.3
+Diabetic eye disease,E14.3
+Diabetic eye disease,H28.0
+Diabetic eye disease,H36.0
+Eating disorder,F50.0
+Eating disorder,F50.1
+Eating disorder,F50.2
+Eating disorder,F50.3
+Ehlers danlos syndrome type 3,M35.7
+heart failure,I11.0
+heart failure,I13.0
+heart failure,I13.2
+"History of alcohol use disorder, misuse /dependence",F10.1
+"History of alcohol use disorder, misuse /dependence",F10.2
+"History of alcohol use disorder, misuse /dependence",F10.3
+"History of alcohol use disorder, misuse /dependence",F10.4
+"History of alcohol use disorder, misuse /dependence",F10.5
+"History of alcohol use disorder, misuse /dependence",F10.6
+"History of alcohol use disorder, misuse /dependence",F10.7
+"History of alcohol use disorder, misuse /dependence",F10.8
+"History of alcohol use disorder, misuse /dependence",F10.9
+"History of alcohol use disorder, misuse /dependence",E24.4
+"History of alcohol use disorder, misuse /dependence",G31.2
+"History of alcohol use disorder, misuse /dependence",G62.1
+"History of alcohol use disorder, misuse /dependence",G72.1
+"History of alcohol use disorder, misuse /dependence",K29.2
+"History of alcohol use disorder, misuse /dependence",K85.2
+"History of alcohol use disorder, misuse /dependence",K86.0
+"History of alcohol use disorder, misuse /dependence",Z50.2
+"History of alcohol use disorder, misuse /dependence",Z71.4
+HIV/AIDS,F02.4
+Hyperparathyroidism,E21.0
+Hyperparathyroidism,E21.1
+Hyperparathyroidism,E21.2
+Hyperparathyroidism,E21.3
+Idiopathic intracranial hypertension,G93.2
+Inflammatory arthritis,I73.0
+Inflammatory arthritis,J99.0
+Inflammatory arthritis,M35.0
+Inflammatory eye disease,H20.0
+Inflammatory eye disease,H20.1
+Inflammatory eye disease,H20.2
+Inflammatory eye disease,H20.8
+Inflammatory eye disease,H20.9
+Inflammatory eye disease,H22.0
+Inflammatory eye disease,H22.1
+Inflammatory eye disease,H30.2
+Inflammatory eye disease,H30.0
+Inflammatory eye disease,H30.1
+Inflammatory eye disease,H30.8
+Inflammatory eye disease,H30.9
+Inflammatory eye disease,H32.0
+Inflammatory eye disease,H15.0
+Inflammatory eye disease,H15.1
+Inflammatory eye disease,H19.0
+Ischemic heart disease & Myocardial Infraction,I25.2
+Marfans syndrome,Q87.4
+Neurodevelopmental disorder,F84.0
+Neurodevelopmental disorder,F84.1
+Neurodevelopmental disorder,F84.5
+Neurodevelopmental disorder,F81.9
+Non alcoholic fatty liver disease,K760
+Non alcoholic fatty liver disease,K758
+Obstructive sleep apnoea,G47.3
+other dermatology conditions,L73.2
+other dermatology conditions,L66.1
+other dermatology conditions,L71.1
+other dermatology conditions,L71.8
+other dermatology conditions,L71.9
+Other Headaches,G44.2
+Other Headaches,G44.0
+other mental health conditions,Y87.0
+other mental health conditions,Z91.5
+Peripheral neuropathy,G56.1
+Peripheral neuropathy,G56.2
+Peripheral neuropathy,G56.3
+Peripheral neuropathy,G56.4
+Peripheral neuropathy,G56.8
+Peripheral neuropathy,G56.9
+Peripheral neuropathy,M14.6
+Peripheral neuropathy,M49.4
+Peripheral neuropathy,E85.1
+Pernicious anaemia,D51.0
+Pituitary tumour,D35.2
+Polycystic ovarian syndrome,E28.2
+Primary thrombocytopaenia,D69.3
+Primary thrombocytopaenia,D69.4
+Psoriasis,M09.0
+Psychoses,F30.2
+Psychoses,F31.2
+Psychoses,F31.5
+"Pulmonary fibrosis, instertitial lung disease",J84.1
+"Pulmonary fibrosis, instertitial lung disease",J70.1
+"Pulmonary fibrosis, instertitial lung disease",J70.3
+"Pulmonary fibrosis, instertitial lung disease",J70.4
+Pulmonary hypertension,I27.0
+Pulmonary hypertension,I27.2
+Retinal detachment,H33.0
+Retinal detachment,H33.3
+Retinal detachment,H33.4
+Retinal detachment,H33.5
+Sarcoidosis,G53.2
+Sarcoidosis,M63.3
+Sickle-cell anaemia,D57.0
+Sickle-cell anaemia,D57.1
+Sickle-cell anaemia,D57.2
+Sickle-cell anaemia,D57.8
+Solid organ transplant,Z94.1
+Solid organ transplant,Z94.2
+Solid organ transplant,Z94.3
+Solid organ transplant,Z94.4
+Solid organ transplant,Z94.5
+Solid organ transplant,Z94.6
+Solid organ transplant,Z94.7
+Solid organ transplant,Z94.8
+Solid organ transplant,T86.2
+Solid organ transplant,T86.3
+Solid organ transplant,T86.4
+Solid organ transplant,T86.5
+Solid organ transplant,T86.6
+Solid organ transplant,T86.7
+Solid organ transplant,T86.8
+Solid organ transplant,T86.9
+somatoform disorder,G93.3
+somatoform disorder,F48.0
+somatoform disorder,M79.7
+somatoform disorder,R52.0
+somatoform disorder,R52.1
+somatoform disorder,R90.5
+somatoform disorder,R90.6
+somatoform disorder,R90.7
+Spina bifida,Q76.0
+Spondyloarthritis,M07.0
+Spondyloarthritis,M07.1
+Spondyloarthritis,M07.2
+Spondyloarthritis,M07.3
+Spondyloarthritis,L40.5
+stroke,I69.1
+stroke,I63.0
+stroke,I63.1
+stroke,I63.2
+stroke,I63.3
+stroke,I63.4
+stroke,I63.5
+stroke,I63.8
+stroke,I63.9
+stroke,I69.3
+stroke,G46.3
+stroke,G46.4
+stroke,G46.5
+stroke,G46.6
+stroke,G46.7
+stroke,G46.8
+stroke,I69.4
+stroke,I69.0
+stroke,G45.0
+stroke,G45.1
+stroke,G45.2
+stroke,G45.3
+stroke,G45.4
+stroke,G45.8
+stroke,G45.9
+stroke,G46.0
+stroke,G46.1
+stroke,G46.2
+thyroid disorder,E03.5
+thyroid disorder,E03.8
+thyroid disorder,E03.9
+thyroid disorder,E05.0
+thyroid disorder,E05.1
+thyroid disorder,E05.2
+thyroid disorder,E05.5
+thyroid disorder,E05.8
+thyroid disorder,E05.9
+thyroid disorder,E06.2
+thyroid disorder,E06.3
+thyroid disorder,E06.5
+thyroid disorder,E06.9
+thyroid disorder,H06.2
+Urolithiasis / kidney stones,N13.2
+Urolithiasis / kidney stones,N20.0
+Urolithiasis / kidney stones,N20.1
+Urolithiasis / kidney stones,N20.2
+Urolithiasis / kidney stones,N20.9
+Urolithiasis / kidney stones,N21.0
+Urolithiasis / kidney stones,N21.1
+Urolithiasis / kidney stones,N21.8
+Urolithiasis / kidney stones,N21.9
+Urolithiasis / kidney stones,N22.8
+Venous thromboembolism,I80.1
+Venous thromboembolism,I80.2
+Venous thromboembolism,I63.6
+Venous thromboembolism,I67.6
+Venous thromboembolism,I82.0
+Venous thromboembolism,I82.2
+Venous thromboembolism,I82.3
+Vertebral disorder,M48.5
+Vertebral disorder,M49.5
+Vertebral disorder,M48.0
+Vertebral disorder,M43.1
+Vertebral disorder,M47.1
+Vertebral disorder,M47.2
+Vertebral disorder,M47.8
+Vertebral disorder,M47.9

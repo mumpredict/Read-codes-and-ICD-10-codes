@@ -1,0 +1,267 @@
+Phenotype,ICD-10 codes three characters
+Adrenal tumour,D35
+Adrenal tumour,E25
+all other cancers,C81
+all other cancers,C91
+all other cancers,C92
+all other cancers,C93
+all other cancers,C94
+all other cancers,C95
+all other cancers,C82
+all other cancers,C83
+all other cancers,C84
+all other cancers,C85
+all other cancers,C86
+all other cancers,C90
+all other cancers,C24
+all other cancers,C67
+all other cancers,C40
+all other cancers,C41
+all other cancers,C18
+all other cancers,C19
+all other cancers,C20
+all other cancers,C21
+all other cancers,C70
+all other cancers,C71
+all other cancers,C72
+all other cancers,C53
+all other cancers,C64
+all other cancers,C65
+all other cancers,C66
+all other cancers,C33
+all other cancers,C34
+all other cancers,C43
+all other cancers,C45
+all other cancers,C97
+all other cancers,C15
+all other cancers,C00
+all other cancers,C01
+all other cancers,C02
+all other cancers,C03
+all other cancers,C04
+all other cancers,C05
+all other cancers,C06
+all other cancers,C07
+all other cancers,C08
+all other cancers,C09
+all other cancers,C10
+all other cancers,C11
+all other cancers,C12
+all other cancers,C13
+all other cancers,C14
+all other cancers,C17
+all other cancers,C23
+all other cancers,C31
+all other cancers,C32
+all other cancers,C37
+all other cancers,C46
+all other cancers,C47
+all other cancers,C48
+all other cancers,C49
+all other cancers,C51
+all other cancers,C52
+all other cancers,C57
+all other cancers,C58
+all other cancers,C60
+all other cancers,C63
+all other cancers,C68
+all other cancers,C69
+all other cancers,C74
+all other cancers,C76
+all other cancers,C80
+all other cancers,C96
+all other cancers,C56
+all other cancers,C25
+all other cancers,C44
+all other cancers,C16
+all other cancers,C73
+all other cancers,C54
+all other cancers,C55
+all other cancers,C77
+anxiety,F40
+anxiety,F41
+Asthma,J45
+Asthma,J46
+Atrial Fibrillation,I48
+Autoimmune skin disease,L63
+Autoimmune skin disease,L80
+Bipolar disorder & affective psychosis,F30
+Bipolar disorder & affective psychosis,F31
+breast cancer,C50
+breast cancer,D05
+Bronchiectasis,J47
+cardiomyopathy,I43
+cataract,H25
+cataract,H28
+Chronic liver disease,B18
+Chronic liver disease,K70
+Chronic liver disease,K72
+Chronic obstructive pulmonary disease,J40
+Chronic obstructive pulmonary disease,J41
+Chronic obstructive pulmonary disease,J42
+Chronic obstructive pulmonary disease,J43
+Chronic obstructive pulmonary disease,J44
+congenital heart disease,Q21
+congenital heart disease,Q20
+congenital heart disease,Q22
+congenital heart disease,Q23
+congenital heart disease,Q24
+congenital heart disease,Q25
+congenital heart disease,Q26
+Cystic fibrosis,E84
+deafness,H90
+deafness,H91
+depression,F32
+depression,F33
+diabetes mellitus,E10
+diabetes mellitus,E11
+diabetes mellitus,E12
+diabetes mellitus,E13
+diabetes mellitus,E14
+Endometrosis,N80
+Epilepsy,G40
+Epilepsy,G41
+atopic eczema,L20
+Gall stones,K80
+Haemophilia,D66
+Haemophilia,D67
+heart failure,I50
+History of substance misuse,F11
+History of substance misuse,F12
+History of substance misuse,F13
+History of substance misuse,F14
+History of substance misuse,F15
+History of substance misuse,F16
+History of substance misuse,F18
+History of substance misuse,F19
+HIV/AIDS,B20
+HIV/AIDS,B21
+HIV/AIDS,B22
+HIV/AIDS,B23
+HIV/AIDS,B24
+HIV/AIDS,R75
+HIV/AIDS,Z21
+Hypertension,I11
+Hypertension,I12
+Hypertension,I13
+Hypertension,I15
+Hypertension,I10
+Infertility,N97
+Inflammatory arthritis,M05
+Inflammatory arthritis,M06
+Inflammatory arthritis,M34
+Inflammatory bowel disease,K50
+Inflammatory bowel disease,K51
+Irritable bowel syndrome,K58
+Ischemic heart disease & Myocardial Infraction,I21
+Ischemic heart disease & Myocardial Infraction,I22
+Ischemic heart disease & Myocardial Infraction,I20
+Ischemic heart disease & Myocardial Infraction,I23
+Ischemic heart disease & Myocardial Infraction,I24
+Ischemic heart disease & Myocardial Infraction,I25
+Leiomyoma,D25
+Migraine,G43
+Multiple sclerosis,G35
+Neurodevelopmental disorder,F90
+Neurodevelopmental disorder,Q90
+Neurodevelopmental disorder,F70
+Neurodevelopmental disorder,F71
+Neurodevelopmental disorder,F72
+Neurodevelopmental disorder,F73
+Neurodevelopmental disorder,F78
+Neurodevelopmental disorder,F79
+Osteoarthritis,M15
+Osteoarthritis,M16
+Osteoarthritis,M17
+Osteoarthritis,M18
+Osteoarthritis,M19
+Osteoporosis,M80
+Osteoporosis,M81
+Osteoporosis,M82
+other dermatology conditions,L43
+other dermatology conditions,L21
+other dermatology conditions,L50
+other mental health conditions,F42
+other mental health conditions,F60
+other mental health conditions,F61
+other mental health conditions,F44
+other mental health conditions,X60
+other mental health conditions,X61
+other mental health conditions,X62
+other mental health conditions,X63
+other mental health conditions,X64
+other mental health conditions,X65
+other mental health conditions,X66
+other mental health conditions,X67
+other mental health conditions,X68
+other mental health conditions,X69
+other mental health conditions,X70
+other mental health conditions,X71
+other mental health conditions,X72
+other mental health conditions,X73
+other mental health conditions,X74
+other mental health conditions,X75
+other mental health conditions,X76
+other mental health conditions,X77
+other mental health conditions,X78
+other mental health conditions,X79
+other mental health conditions,X80
+other mental health conditions,X81
+other mental health conditions,X82
+other mental health conditions,X83
+other mental health conditions,X84
+Peptic ulcer disease,K27
+Peptic ulcer disease,K26
+Peptic ulcer disease,K25
+Peripheral neuropathy,G57
+Peripheral neuropathy,G58
+Peripheral neuropathy,G59
+Peripheral neuropathy,G60
+Peripheral neuropathy,G61
+Peripheral neuropathy,G62
+Peripheral neuropathy,G63
+Peripheral neuropathy,G64
+Primary systemic vasculitis,M30
+Primary systemic vasculitis,M31
+Psoriasis,L40
+Psychoses,F23
+Psychoses,F24
+Pulmonary embolism,I26
+"Pulmonary fibrosis, instertitial lung disease",J60
+"Pulmonary fibrosis, instertitial lung disease",J61
+"Pulmonary fibrosis, instertitial lung disease",J62
+"Pulmonary fibrosis, instertitial lung disease",J63
+"Pulmonary fibrosis, instertitial lung disease",J64
+"Pulmonary fibrosis, instertitial lung disease",J65
+"Pulmonary fibrosis, instertitial lung disease",J66
+"Pulmonary fibrosis, instertitial lung disease",J67
+"Pulmonary fibrosis, instertitial lung disease",J84
+Sarcoidosis,D86
+Schizophrenia & Non affective psychosis,F20
+Schizophrenia & Non affective psychosis,F21
+Schizophrenia & Non affective psychosis,F22
+Schizophrenia & Non affective psychosis,F25
+Schizophrenia & Non affective psychosis,F28
+Schizophrenia & Non affective psychosis,F29
+Scoliosis,M41
+Severe blindness,H54
+Spina bifida,Q05
+Spondyloarthritis,M45
+stroke,I61
+stroke,I64
+stroke,I60
+stroke,I65
+stroke,I66
+Systemic Lupus Erythematosus,L93
+Systemic Lupus Erythematosus,M32
+Turners syndrome,Q96
+Urolithiasis / kidney stones,N23
+valvular heart disease,I08
+valvular heart disease,I35
+valvular heart disease,I34
+valvular heart disease,I05
+valvular heart disease,I06
+valvular heart disease,I07
+Venous thromboembolism,I81
+Vertebral disorder,M50
+Vertebral disorder,M51
